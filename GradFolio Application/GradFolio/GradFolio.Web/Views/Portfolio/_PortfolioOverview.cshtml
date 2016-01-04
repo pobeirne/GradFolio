@@ -1,0 +1,213 @@
+﻿@model GradFolio.Core.ViewModels.PortfolioViewModel
+
+<div class="row">
+<div class="col-lg-6 col-md-6 col-xs-12">
+    <div class="thumbnail">
+        <ul class="list-group" style="margin-bottom: 0;">
+            <li class="list-group-item">
+                <h4>
+                    Overall Status
+                </h4>
+            </li>
+            <li class="list-group-item">
+                <span> Profile:  </span>
+
+                @if (Model.Stats.ProfileCount == 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+            </li>
+            <li class="list-group-item">
+                <span> Experience:  </span>
+
+                @if (Model.Stats.ExperienceCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+
+            </li>
+            <li class="list-group-item">
+                <span> Courses:  </span>
+
+                @if (Model.Stats.CourseCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+
+            </li>
+            <li class="list-group-item">
+                <span> Skills:  </span>
+
+                @if (Model.Stats.SkillCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+            </li>
+            <li class="list-group-item">
+                <span> Awards:  </span>
+
+
+                @if (Model.Stats.AwardCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+            </li>
+            <li class="list-group-item">
+                <span> Interests:  </span>
+
+                @if (Model.Stats.InterestCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+
+            </li>
+            <li class="list-group-item">
+                <span> Projects:  </span>
+
+                @if (Model.Stats.ProjectCount > 1)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+            </li>
+
+            <li class="list-group-item">
+                <span> CV:  </span>
+
+                @if (Model.Stats.CvCount > 0)
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+                else
+                {
+                    <span class="label label-success pull-right">
+                        <span class=" glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+                    </span>
+                }
+            </li>
+            <li class="list-group-item">
+                <div class="radio">
+                    <label><input type="radio" name="optradio" checked>Portfolio Template 1</label>
+                    @*@Html.ActionLink("Sample Preview", "ViewCv", "CV", new {id = 1}, new {@class = "btn btn-primary btn-sm pull-right", target = "_blank"})*@
+                </div>
+            </li>
+            <li class="list-group-item">
+                @if (Model.IsReady && Model.Stats.PortfolioCount == 0)
+                {
+                    <button class="btn btn-success btn-sm" onclick="generatePortfolioBtnClick()" style="width: 100%;" type="button">
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                        Generate Curriculum Vitae
+                    </button>
+                }
+                else
+                {
+                    <button class="btn btn-success btn-sm" style="width: 100%;" type="button" disabled>
+                        <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+                        Generate Curriculum Vitae
+                    </button>
+                }
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="col-lg-6 col-md-6 col-xs-12" style="max-height: 660px; overflow-y: auto; margin-bottom: 20px;">
+    @if (Model.Portfolio != null && Model.IsReady)
+    {
+        <div class="col-lg-12 col-md-12 col-xs-12">
+            <div class="thumbnail">
+                <ul class="list-group" style="margin-bottom: 0;">
+                    <li class="list-group-item">
+                        <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Name: @Model.Portfolio.Type</span>
+                    </li>
+                    <li class="list-group-item">
+                        <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Name: @Model.Portfolio.RefNum</span>
+                    </li>
+                    <li class="list-group-item">
+                        <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span>
+                            @Html.ActionLink("PortFolioLink", "Index", "GradFolio",
+                                new {Id = @Model.Portfolio.RefNum}, new {@class = "", target = "_blank"})
+                        </span>
+                    </li>
+                    <li class="list-group-item">
+                        <span class=" glyphicon glyphicon-calendar" aria-hidden="true"></span>
+                        <span> Create Date: @Model.Portfolio.CreateDate.ToShortDateString() </span>
+                    </li>
+                </ul>
+            </div>
+            <div class="pull-right" style="margin-bottom: 10px;">
+                @*@Html.ActionLink("Preview", "ViewCv", "CV", new { id = @item.Id }, new { @class = "btn btn-primary btn-sm", target = "_blank" })*@
+                <button type="button" class="btn btn-danger btn-sm" onclick="itemBtnClick('remove', '?itemId=@Model.Portfolio.Id');">Remove</button>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="col-lg-12 col-md-12 col-xs-12">
+            <div class="thumbnail">
+                <span class=" glyphicon glyphicon-warning-sign" aria-hidden="true"></span><span> No Portfolio found!!  </span>
+            </div>
+        </div>
+    }
+</div>
+</div>
+
+
+

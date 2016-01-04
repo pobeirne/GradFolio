@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GenerateCV">
+  <useCaseModelRootMoniker Id="1b402af7-a720-4c6f-bed3-d6d603784719" />
+  <nestedChildShapes>
+    <actorShape Id="028d25fa-ccb9-4e17-90a9-cdd55f3a393b" absoluteBounds="2.625, 3.125, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="6eec237c-cb98-4e2a-ba1d-dce23569148b" LastKnownName="User" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="6f1b8cb4-cdb2-4111-b854-84eeb91673fa" absoluteBounds="5.625, 3.125, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="0b6be156-768c-4135-8fbe-e7525b17b34a" LastKnownName="Generat Portfolio" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseDependencyConnector edgePoints="[(3.125 : 3.375); (5.625 : 3.375)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black">
+      <dependencyMoniker Id="99e126e3-0ca5-4ef0-b302-6022416a7ecc" />
+      <relativeChildShapes />
+      <nodes>
+        <actorShapeMoniker Id="028d25fa-ccb9-4e17-90a9-cdd55f3a393b" />
+        <useCaseShapeMoniker Id="6f1b8cb4-cdb2-4111-b854-84eeb91673fa" />
+      </nodes>
+    </useCaseDependencyConnector>
+    <commentShape Id="112d9216-75af-45aa-8256-80b08ab7591e" absoluteBounds="3.875, 3.125, 0.75, 0.375" customColor="251, 247, 200">
+      <commentMoniker Id="73ef392f-1d56-40c9-b037-314803afbe00" />
+      <relativeChildShapes />
+    </commentShape>
+    <useCaseShape Id="ada67258-9136-4719-88a1-77d12ab0bd69" absoluteBounds="5.625, 1.625, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="85bb05d1-af05-4763-a8ae-e9456185566e" LastKnownName="Login" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <includeConnector edgePoints="[(6.125 : 3.125); (6.125 : 2.125)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black" useCaseStereotype="«include»">
+      <includeMoniker Id="421defb3-a1fe-419c-a256-95403c6fecf5" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="6f1b8cb4-cdb2-4111-b854-84eeb91673fa" />
+        <useCaseShapeMoniker Id="ada67258-9136-4719-88a1-77d12ab0bd69" />
+      </nodes>
+    </includeConnector>
+    <useCaseShape Id="1bdcad96-0dbb-43c0-b8a4-e6a581bda063" absoluteBounds="5.625, 4.625, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="709de2f3-b0b1-4df7-9332-f01db46dc303" LastKnownName="Manage Information" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <includeConnector edgePoints="[(6.125 : 3.625); (6.125 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black" useCaseStereotype="«include»">
+      <includeMoniker Id="66110990-ec14-4a30-b80c-11d72e306d11" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="6f1b8cb4-cdb2-4111-b854-84eeb91673fa" />
+        <useCaseShapeMoniker Id="1bdcad96-0dbb-43c0-b8a4-e6a581bda063" />
+      </nodes>
+    </includeConnector>
+    <useCaseShape Id="4769d269-4377-4301-b6a7-0faef3bb4ad9" absoluteBounds="7.875, 3.125, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="a9717cb4-c4db-4192-a714-62893b20d4c1" LastKnownName="Manage Portfolio" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <extendConnector edgePoints="[(6.625 : 3.375); (7.875 : 3.375)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black" useCaseStereotype="«extend»">
+      <extendMoniker Id="db40434f-eaf5-4713-8c95-da599c08cd76" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="6f1b8cb4-cdb2-4111-b854-84eeb91673fa" />
+        <useCaseShapeMoniker Id="4769d269-4377-4301-b6a7-0faef3bb4ad9" />
+      </nodes>
+    </extendConnector>
+  </nestedChildShapes>
+</useCaseDiagram>

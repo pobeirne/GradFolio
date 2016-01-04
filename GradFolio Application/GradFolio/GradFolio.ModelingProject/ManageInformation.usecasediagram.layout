@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ManageInformation">
+  <useCaseModelRootMoniker Id="2bff3bd9-2d9c-4bff-99c8-4d429a4802e1" />
+  <nestedChildShapes>
+    <actorShape Id="f3c257d7-38a4-46da-9249-627d1ae25bba" absoluteBounds="2, 3.625, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="8b50a4e7-17c4-4534-9ddb-45cabab5672f" LastKnownName="User" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="9ed044c6-49c3-4efa-aedb-7d58900895f7" absoluteBounds="5.125, 3.625, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="69b36157-9083-4642-be76-4941811fc99a" LastKnownName="Manage Information" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseDependencyConnector edgePoints="[(2.5 : 3.875); (5.125 : 3.875)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black">
+      <dependencyMoniker Id="8b65706a-23a4-47c3-9dbe-2da62ba8caac" />
+      <relativeChildShapes />
+      <nodes>
+        <actorShapeMoniker Id="f3c257d7-38a4-46da-9249-627d1ae25bba" />
+        <useCaseShapeMoniker Id="9ed044c6-49c3-4efa-aedb-7d58900895f7" />
+      </nodes>
+    </useCaseDependencyConnector>
+    <commentShape Id="1137a11f-6b89-4038-937e-6d1c588e75a6" absoluteBounds="3.375, 3.5, 0.75, 0.375" customColor="251, 247, 200">
+      <commentMoniker Id="9cddfcb0-9524-465c-8688-b7ad92aa6848" />
+      <relativeChildShapes />
+    </commentShape>
+    <useCaseShape Id="cd147c33-cef7-489d-b08a-4496be484bb2" absoluteBounds="8, 3.625, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="420b5b32-5c0a-448b-906d-eeafdd7631d5" LastKnownName="Login" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <includeConnector edgePoints="[(6.125 : 3.875); (8 : 3.875)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black" useCaseStereotype="«include»">
+      <includeMoniker Id="b849bb2b-a76e-4d7c-81b6-5e90bdaa936b" />
+      <relativeChildShapes />
+      <nodes>
+        <useCaseShapeMoniker Id="9ed044c6-49c3-4efa-aedb-7d58900895f7" />
+        <useCaseShapeMoniker Id="cd147c33-cef7-489d-b08a-4496be484bb2" />
+      </nodes>
+    </includeConnector>
+  </nestedChildShapes>
+</useCaseDiagram>

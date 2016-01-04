@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Infrastructure", "1-Infrastructure", "{AB2673B3-0C41-4BA5-A150-67C4B9931FF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Core", "2-Core", "{D52E98BF-856F-4698-A1C7-9D30DA7CCA76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Web", "3-Web", "{5E976BAC-3019-404D-A406-8603795CDCE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Infrastructure", "GradFolio.Infrastructure\GradFolio.Infrastructure.csproj", "{FA36403A-FD77-43DB-910E-47C672F447C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Infrastructure.DependencyInjection", "GradFolio.Infrastructure.DependencyInjection\GradFolio.Infrastructure.DependencyInjection.csproj", "{A4C3A575-27E4-47DA-B8FB-979286089314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Core", "GradFolio.Core\GradFolio.Core.csproj", "{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{19477C90-E737-4D1C-A9F9-AC11CF6D22FF}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Web", "GradFolio.Web\GradFolio.Web.csproj", "{392ED1BA-B994-4693-B681-F8B892812241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Infrastructure.Logging", "GradFolio.Infrastructure.Logging\GradFolio.Infrastructure.Logging.csproj", "{44F5DF42-D646-4208-9164-91302FF69B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradFolio.Infrastructure.Tests", "GradFolio.Infrastructure.Tests\GradFolio.Infrastructure.Tests.csproj", "{721E6262-DD60-4695-BC6B-AD6F1102E1C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-UML", "4-UML", "{411246E9-738D-43F3-A487-1CD751B46139}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "GradFolio.ModelingProject", "GradFolio.ModelingProject\GradFolio.ModelingProject.modelproj", "{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Stuff", "0-Stuff", "{852AD13B-E25E-4130-BBBF-789DCC17AE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA36403A-FD77-43DB-910E-47C672F447C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA36403A-FD77-43DB-910E-47C672F447C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA36403A-FD77-43DB-910E-47C672F447C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA36403A-FD77-43DB-910E-47C672F447C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C3A575-27E4-47DA-B8FB-979286089314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C3A575-27E4-47DA-B8FB-979286089314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C3A575-27E4-47DA-B8FB-979286089314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C3A575-27E4-47DA-B8FB-979286089314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392ED1BA-B994-4693-B681-F8B892812241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392ED1BA-B994-4693-B681-F8B892812241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392ED1BA-B994-4693-B681-F8B892812241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392ED1BA-B994-4693-B681-F8B892812241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F5DF42-D646-4208-9164-91302FF69B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F5DF42-D646-4208-9164-91302FF69B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F5DF42-D646-4208-9164-91302FF69B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F5DF42-D646-4208-9164-91302FF69B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721E6262-DD60-4695-BC6B-AD6F1102E1C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721E6262-DD60-4695-BC6B-AD6F1102E1C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721E6262-DD60-4695-BC6B-AD6F1102E1C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721E6262-DD60-4695-BC6B-AD6F1102E1C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA36403A-FD77-43DB-910E-47C672F447C4} = {AB2673B3-0C41-4BA5-A150-67C4B9931FF8}
+		{A4C3A575-27E4-47DA-B8FB-979286089314} = {AB2673B3-0C41-4BA5-A150-67C4B9931FF8}
+		{9B52EAFB-2A96-4B25-BB8D-BD959ED2A66F} = {D52E98BF-856F-4698-A1C7-9D30DA7CCA76}
+		{19477C90-E737-4D1C-A9F9-AC11CF6D22FF} = {852AD13B-E25E-4130-BBBF-789DCC17AE6C}
+		{392ED1BA-B994-4693-B681-F8B892812241} = {5E976BAC-3019-404D-A406-8603795CDCE3}
+		{44F5DF42-D646-4208-9164-91302FF69B6A} = {AB2673B3-0C41-4BA5-A150-67C4B9931FF8}
+		{721E6262-DD60-4695-BC6B-AD6F1102E1C7} = {AB2673B3-0C41-4BA5-A150-67C4B9931FF8}
+		{A245D25E-D557-43FE-9D6E-FCB92AD1DEB6} = {411246E9-738D-43F3-A487-1CD751B46139}
+	EndGlobalSection
+EndGlobal

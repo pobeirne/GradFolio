@@ -1,0 +1,300 @@
+﻿@model GradFolio.Core.ViewModels.PortalOverviewViewModel
+
+<div class="row">
+<div class="col-lg-12 col-md-12 col-xs-12" style="max-height: 660px; overflow-y: auto; margin-bottom: 20px;">
+<div class="row">
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Experience
+                @if (Model.PortalOverviewStats.ExperienceCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.ExperienceCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Experience", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-briefcase" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Courses
+                @if (Model.PortalOverviewStats.CourseCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.CourseCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Courses", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-education" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Skills
+                @if (Model.PortalOverviewStats.SkillCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.SkillCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Skills", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-sunglasses" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Awards
+                @if (Model.PortalOverviewStats.AwardCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.AwardCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Awards", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-certificate" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Interests
+                @if (Model.PortalOverviewStats.InterestCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.InterestCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Interests", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-book" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-2 col-md-4 col-xs-6">
+        <div class="thumbnail">
+            <p align="center">
+                Projects
+                @if (Model.PortalOverviewStats.ProjectCount > 0)
+                {
+                    <span class="label label-success">
+                            <span>@Model.PortalOverviewStats.ProjectCount</span>
+                        </span>
+                }
+                else
+                {
+                    <span class="label label-danger">
+                            <span>0</span>
+                        </span>
+                }
+            </p>
+            <div style="text-align: center;">
+                <a href="@Url.Action("Projects", "Portal")" style="text-align: center;">
+                    <h1 class="glyphicon glyphicon-blackboard" aria-hidden="true"></h1>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-xs-12">
+        <div class="thumbnail">
+            <div class="list-group" style="margin-bottom: 0;">
+                <div class="list-group-item list-group-item-info">
+                    <h4>
+                        Profile
+                    </h4>
+                </div>
+                @if (Model.ProfileOverview != null)
+                {
+                    <a href="@Url.Action("ProfileInfo", "Portal")" class="list-group-item">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-xs-12">
+                                <div class="thumbnail">
+                                    <img class="img-responsive" src="@Model.ProfileOverview.ImageUrl" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-9 col-md-9 col-xs-12">
+                                <h4 class="list-group-item-heading">@Model.ProfileOverview.Name</h4>
+                                <br/>
+                                <p class="list-group-item-text">
+                                    Title :@Model.ProfileOverview.Title <br/>
+                                    Join Date: @Model.ProfileOverview.JoinDate.ToShortDateString()
+                                </p>
+                                <br/><br/>
+                            </div>
+                        </div>
+                    </a>
+                }
+                else
+                {
+                    <a href="@Url.Action("ProfileInfo", "Portal")" class="list-group-item">
+                        <div class="alert alert-danger" role="alert">...Error</div>
+                    </a>
+                }
+                <div class="list-group-item list-group-item-info">
+                    <h4>
+                        Latest CV
+                    </h4>
+                </div>
+                @if (Model.CvOverview != null)
+                {
+                    <a href="@Url.Action("CurriculumVitae", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Title :@Model.CvOverview.FileName </h4>
+                        <span class="list-group-item-text">
+                            Type: @Model.CvOverview.Type<br />
+                            Create Date: @Model.CvOverview.CreateDate.ToShortDateString()
+                        </span>
+                    </a>
+                }
+                else
+                {
+                    <a href="@Url.Action("CurriculumVitae", "Portal")" class="list-group-item">
+                        <div class="alert alert-danger" role="alert">...Error</div>
+                    </a>
+                }
+                <div class="list-group-item list-group-item-info">
+                    <h4>
+                        Portfolio 
+                    </h4>
+                </div>
+                @if (Model.PortfolioOverview != null)
+                {
+                    <a href="@Url.Action("Index", "GradFolio", new { Id = @Model.PortfolioOverview.PortfolioUrl, target = "_blank" })" class="list-group-item">
+                        <h4 class="list-group-item-heading">My Portfolio</h4>
+                        <span class="list-group-item-text">
+                            Type: @Model.PortfolioOverview.Type<br />
+                            Create Date: @Model.PortfolioOverview.CreateDate.ToShortDateString()
+                        </span>
+                    </a>
+                }
+                else
+                {
+                    <a href="@Url.Action("Portfolio", "Portal")" class="list-group-item">
+                        <div class="alert alert-danger" role="alert">...Error</div>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-6 col-md-6 col-xs-12">
+        <div class="thumbnail">
+            <div class="list-group" style="margin-bottom: 0;">
+                @if (Model.ExperienceOverview != null)
+                {
+                    <a href="@Url.Action("Experience", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Experience</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.ExperienceOverview.Title <br/>
+                            Company: @Model.ExperienceOverview.Company
+                        </p>
+                    </a>
+                }
+                @if (Model.CourseOverview != null)
+                {
+                    <a href="@Url.Action("Courses", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Course</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.CourseOverview.Title <br/>
+                            Company: @Model.CourseOverview.College
+                        </p>
+                    </a>
+                }
+                @if (Model.SkillOverview != null)
+                {
+                    <a href="@Url.Action("Skills", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Skill</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.SkillOverview.Title <br/>
+                            Company: @Model.SkillOverview.Level
+                        </p>
+                    </a>
+                }
+                @if (Model.AwardOverview != null)
+                {
+                    <a href="@Url.Action("Awards", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Award</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.AwardOverview.Title <br/>
+                            Company: @Model.AwardOverview.Level
+                        </p>
+                    </a>
+                }
+                @if (Model.InterestOverview != null)
+                {
+                    <a href="@Url.Action("Interests", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Interest</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.InterestOverview.Title <br/>
+                            Company: @Model.InterestOverview.CreateDate.ToShortDateString()
+                        </p>
+                    </a>
+                }
+                @if (Model.ProjectOverview != null)
+                {
+                    <a href="@Url.Action("Projects", "Portal")" class="list-group-item">
+                        <h4 class="list-group-item-heading">Latest Project</h4>
+                        <p class="list-group-item-text">
+                            Title :@Model.ProjectOverview.Title <br/>
+                            Company: @Model.ProjectOverview.CreateDate.ToShortDateString()
+                        </p>
+                    </a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</div>

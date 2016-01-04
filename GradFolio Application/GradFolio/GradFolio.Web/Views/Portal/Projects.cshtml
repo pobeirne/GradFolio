@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Projects";
+    Layout = "~/Views/Shared/_LayoutPortal.cshtml";
+}
+
+@*Page Title*@
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-xs-12" style="padding-top: 0">
+        <h2 class="page-header" style="margin-top: 22px; margin-bottom: 10px;">
+            @ViewBag.Title
+        </h2>
+    </div>
+</div>
+
+@*Page Filter Controls*@
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-xs-12">
+        <div aria-label="..." class="btn-group" role="group">
+            <button class="btn btn-default btn-sm" id="sortbydate" onclick="itemMenuBtnClick('sortby1');" type="button">Sort By Date</button>
+            <button class="btn btn-default btn-sm" id="sortbyaward" onclick="itemMenuBtnClick('sortby2');" type="button">Sort By Award</button>
+            <button class="btn btn-default btn-sm" id="sortbyissuer" onclick="itemMenuBtnClick('sortby3');" type="button">Sort By Issuer</button>
+        </div>
+        <span class="pull-right">
+            <button class="btn btn-primary btn-sm" onclick="itemMenuBtnClick('reload');" type="button">
+                Reload&nbsp;&nbsp;<span aria-hidden="true" class="glyphicon glyphicon-refresh"></span>
+            </button>
+            <button class="btn btn-success btn-sm" onclick="itemMenuBtnClick('add');" type="button">
+                Add New&nbsp;&nbsp;<span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+            </button>
+        </span>
+
+    </div>
+</div>
+<hr style="margin-top: 10px;" />
+
+
+@*Page Content*@
+<div id="container">
+    <div id="content">
+    </div>
+</div>
+
+
+@*View model container*@
+<div class="modal fade" id="popupModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" id="popupcontainer">
+
+        </div>
+    </div>
+</div>
+
+
+
+@section scripts
+{
+<script type="text/javascript">
+
+    //URL Parameters
+    var loadContent_url = "@Html.Raw(Url.Action("ViewProjectList", "Project"))";
+
+    var viewContent_url = "@Html.Raw(Url.Action("ViewProject", "Project"))";
+
+    var addContent_url = "@Html.Raw(Url.Action("AddProject", "Project"))";
+
+    var editContent_url = "@Html.Raw(Url.Action("EditProject", "Project"))";
+
+    var removeContent_url = "@Html.Raw(Url.Action("RemoveProject", "Project"))";
+
+</script>
+
+<script src="~/Scripts/portal/portal-default.js"></script>
+}

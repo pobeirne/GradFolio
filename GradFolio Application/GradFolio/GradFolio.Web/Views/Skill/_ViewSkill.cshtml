@@ -1,0 +1,31 @@
+﻿@model GradFolio.Core.ViewModels.SkillViewModel
+
+<div class="modal-header" style="background-color: #000000; color: #f5fffa">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true" style="color: #ffffff">&times;</span>
+    </button>
+    <h4 class="modal-title" id="myModalLabel">Skill Details</h4>
+</div>
+<div class="modal-body">
+    <div class="thumbnail">
+        <ul class="list-group" style="margin-bottom: 0;">
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Title: @Model.Title </span>
+            </li>
+            <li class="list-group-item">
+                <span class="glyphicon glyphicon-home" aria-hidden="true"></span><span> Level: @Model.Level </span>
+            </li>
+            <li class="list-group-item">
+                <span class="glyphicon glyphicon-home" aria-hidden="true"></span><span> Description: @Model.Summary </span>
+            </li>
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-calendar" aria-hidden="true"></span><span> Create Date: @Model.CreateDate.ToShortDateString() </span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="modal-footer" style="background-color: #000000; color: #f5fffa">
+    <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+</div>
+
+

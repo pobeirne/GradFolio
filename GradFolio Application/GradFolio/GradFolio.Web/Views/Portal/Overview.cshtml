@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Overview";
+    Layout = "~/Views/Shared/_LayoutPortal.cshtml";
+}
+
+@*Page Title*@
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-xs-12" style="padding-top: 0">
+        <h2 class="page-header" style="margin-top: 22px; margin-bottom: 10px;">
+            @ViewBag.Title
+        </h2>
+    </div>
+</div>
+
+@*Page Filter Controls*@
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-xs-12">
+        <span class="pull-right">
+            <button class="btn btn-primary btn-sm" onclick="reloadBtnClick();" type="button">
+                Reload&nbsp;&nbsp;<span aria-hidden="true" class="glyphicon glyphicon-refresh"></span>
+            </button>
+        </span>
+    </div>
+</div>
+<hr style="margin-top: 10px;"/>
+
+@*Page Content*@
+<div id="container">
+    <div id="content" style="margin-top: 20px; margin-bottom: 10px;">
+    </div>
+</div>
+
+@section scripts
+{
+    <script type="text/javascript">
+        var loadContent_url = "@Html.Raw(Url.Action("PortalOverview", "Portal"))";
+    </script>
+
+    <script src="~/Scripts/portal/portal-default.js"></script>
+}

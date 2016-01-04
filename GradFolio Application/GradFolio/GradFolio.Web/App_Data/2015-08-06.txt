@@ -1,0 +1,1012 @@
+             Info  2015-08-06 00:14:01.2799  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:14:01.4761  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:14:55.6396  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:14:55.6657  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:15:23.3499  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:15:23.4099  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:19:37.2368  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 9
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:19:37.3059  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 9
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:20.9294  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:20.9624  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:21.0555  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:21.0895  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:49.7396  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:49.7687  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:49.8377  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:21:49.8667  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:10.3541  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:10.3832  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:10.4482  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:10.4692  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 10
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:28.4325  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 11
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:28.4615  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 11
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:28.5336  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 11
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:22:28.5556  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 11
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:29.3188  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:29.3519  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:29.4329  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:29.4629  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:41.5937  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:41.6267  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:41.6838  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:23:41.7218  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:25:29.8331  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:25:29.8671  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 16
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:42.8887  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:42.9147  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:42.9917  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:43.0218  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:47.4721  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:26:47.5011  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:27:14.7257  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:27:14.7577  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:27:34.9803  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:27:35.0123  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:21.0425  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:21.0795  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:34.2026  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:34.2366  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:47.8895  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:47.9255  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:47.9996  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:48.0316  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:48.1056  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:48.1327  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:53.1751  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:53.2031  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:53.2781  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:53.3071  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:56.7592  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:56.7872  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:56.9062  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:56.9413  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:57.0003  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:57.0313  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:59.5770  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:59.6170  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:59.6801  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:28:59.7151  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 22
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.1601  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.1891  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.2632  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.2942  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.3833  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:12.4213  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 20
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:20.5327  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:20.5747  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:27.4213  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 21
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:27.4443  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 21
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:32.3824  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:32.4805  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:34.1697  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:29:34.2447  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:30:35.2623  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:30:35.2873  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 23
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:31:33.4895  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:31:33.5225  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:31:33.5916  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:31:33.7026  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 25
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:32:44.6885  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:32:44.7585  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:32:44.8276  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-06 00:32:44.8566  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: 91e1131c-47d6-4575-97eb-01386348e62e
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+

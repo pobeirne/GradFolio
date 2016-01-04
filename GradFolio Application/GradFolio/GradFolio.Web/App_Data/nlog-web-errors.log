@@ -1,0 +1,1340 @@
+2015-07-23 04:18:43.3931 Info Adding target Database Target[database]
+2015-07-23 04:18:43.4222 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 04:18:43.4222 Info Found 35 configuration items
+2015-07-23 04:31:48.2441 Info Adding target Database Target[database]
+2015-07-23 04:31:48.2549 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 04:31:48.2549 Info Found 35 configuration items
+2015-07-23 10:58:13.8145 Info Adding target Database Target[database]
+2015-07-23 10:58:13.8145 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 10:58:13.8355 Info Found 35 configuration items
+2015-07-23 11:10:27.6430 Info Adding target Database Target[database]
+2015-07-23 11:10:27.6430 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 11:10:27.6590 Info Found 35 configuration items
+2015-07-23 13:41:09.6813 Info Shutting down logging...
+2015-07-23 13:41:09.6914 Info Closing old configuration.
+2015-07-23 13:41:09.6914 Info Logger has been shut down.
+2015-07-23 16:23:43.3156 Info Adding target Database Target[database]
+2015-07-23 16:23:43.3156 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:23:43.3316 Info Found 35 configuration items
+2015-07-23 16:24:39.9549 Info Adding target Database Target[database]
+2015-07-23 16:24:39.9549 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:24:39.9728 Info Found 35 configuration items
+2015-07-23 16:30:14.0398 Info Adding target Database Target[database]
+2015-07-23 16:30:14.0518 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:30:14.0518 Info Found 35 configuration items
+2015-07-23 16:35:13.1201 Info Adding target Database Target[database]
+2015-07-23 16:35:13.1331 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:35:13.1421 Info Found 35 configuration items
+2015-07-23 16:37:58.1102 Info Adding target Database Target[database]
+2015-07-23 16:37:58.1102 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:37:58.1272 Info Found 35 configuration items
+2015-07-23 16:46:22.7672 Info Adding target Database Target[database]
+2015-07-23 16:46:22.7832 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:46:22.7832 Info Found 35 configuration items
+2015-07-23 16:51:28.6099 Info Adding target Database Target[database]
+2015-07-23 16:51:28.6099 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:51:28.6279 Info Found 35 configuration items
+2015-07-23 16:57:35.1907 Info Adding target Database Target[database]
+2015-07-23 16:57:35.1907 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 16:57:35.2107 Info Found 35 configuration items
+2015-07-23 17:01:09.3042 Info Adding target Database Target[database]
+2015-07-23 17:01:09.3162 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:01:09.3162 Info Found 35 configuration items
+2015-07-23 17:04:14.7433 Info Adding target Database Target[database]
+2015-07-23 17:04:14.7553 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:04:14.7663 Info Found 35 configuration items
+2015-07-23 17:07:43.4380 Info Adding target Database Target[database]
+2015-07-23 17:07:43.4380 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:07:43.4590 Info Found 35 configuration items
+2015-07-23 17:09:34.9568 Info Adding target Database Target[database]
+2015-07-23 17:09:34.9568 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:09:34.9778 Info Found 35 configuration items
+2015-07-23 17:11:20.2978 Info Adding target Database Target[database]
+2015-07-23 17:11:20.2978 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:11:20.3328 Info Found 35 configuration items
+2015-07-23 17:12:38.2805 Info Adding target Database Target[database]
+2015-07-23 17:12:38.2805 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 17:12:38.2992 Info Found 35 configuration items
+2015-07-23 18:10:45.0806 Info Adding target Database Target[database]
+2015-07-23 18:10:45.0806 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 18:10:45.1026 Info Found 35 configuration items
+2015-07-23 19:15:26.7199 Info Adding target Database Target[database]
+2015-07-23 19:15:26.7199 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 19:15:26.7386 Info Found 35 configuration items
+2015-07-23 20:52:38.1935 Info Adding target Database Target[database]
+2015-07-23 20:52:38.2045 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 20:52:38.2045 Info Found 35 configuration items
+2015-07-23 22:15:01.7389 Info Adding target Database Target[database]
+2015-07-23 22:15:01.7499 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-23 22:15:01.7499 Info Found 35 configuration items
+2015-07-24 10:17:41.0309 Info Adding target Database Target[database]
+2015-07-24 10:17:41.0540 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 10:17:41.0640 Info Found 35 configuration items
+2015-07-24 10:35:52.0154 Info Adding target Database Target[database]
+2015-07-24 10:35:52.0334 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 10:35:52.0464 Info Found 35 configuration items
+2015-07-24 13:58:36.1510 Info Adding target Database Target[database]
+2015-07-24 13:58:36.1620 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 13:58:36.1740 Info Found 35 configuration items
+2015-07-24 14:15:34.9121 Info Adding target Database Target[database]
+2015-07-24 14:15:34.9282 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 14:15:34.9282 Info Found 35 configuration items
+2015-07-24 14:32:32.0027 Info Adding target Database Target[database]
+2015-07-24 14:32:32.0287 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 14:32:32.0647 Info Found 35 configuration items
+2015-07-24 14:36:01.7193 Info Adding target Database Target[database]
+2015-07-24 14:36:01.7353 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 14:36:01.7353 Info Found 35 configuration items
+2015-07-24 14:40:14.9230 Info Adding target Database Target[database]
+2015-07-24 14:40:14.9400 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 14:40:14.9400 Info Found 35 configuration items
+2015-07-24 19:50:07.4444 Info Adding target Database Target[database]
+2015-07-24 19:50:07.4544 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-24 19:50:07.4544 Info Found 35 configuration items
+2015-07-25 00:53:21.2967 Info Adding target Database Target[database]
+2015-07-25 00:53:21.2967 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 00:53:21.3227 Info Found 35 configuration items
+2015-07-25 01:29:00.7666 Info Adding target Database Target[database]
+2015-07-25 01:29:00.8016 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:29:00.8267 Info Found 35 configuration items
+2015-07-25 01:30:46.7834 Info Adding target Database Target[database]
+2015-07-25 01:30:46.7834 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:30:46.8034 Info Found 35 configuration items
+2015-07-25 01:40:33.5878 Info Adding target Database Target[database]
+2015-07-25 01:40:33.6078 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:40:33.6238 Info Found 35 configuration items
+2015-07-25 01:42:34.5303 Info Adding target Database Target[database]
+2015-07-25 01:42:34.5994 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:42:34.6204 Info Found 35 configuration items
+2015-07-25 01:44:11.9263 Info Adding target Database Target[database]
+2015-07-25 01:44:11.9383 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:44:11.9383 Info Found 35 configuration items
+2015-07-25 01:47:41.3629 Info Adding target Database Target[database]
+2015-07-25 01:47:41.3789 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 01:47:41.3939 Info Found 35 configuration items
+2015-07-25 02:00:01.1771 Info Adding target Database Target[database]
+2015-07-25 02:00:01.1932 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:00:01.2062 Info Found 35 configuration items
+2015-07-25 02:03:03.4612 Info Adding target Database Target[database]
+2015-07-25 02:03:03.5273 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:03:03.5363 Info Found 35 configuration items
+2015-07-25 02:08:10.9415 Info Adding target Database Target[database]
+2015-07-25 02:08:10.9415 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:08:10.9685 Info Found 35 configuration items
+2015-07-25 02:14:43.1761 Info Adding target Database Target[database]
+2015-07-25 02:14:43.1971 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:14:43.2071 Info Found 35 configuration items
+2015-07-25 02:15:22.6280 Info Adding target Database Target[database]
+2015-07-25 02:15:22.6800 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:15:22.7471 Info Found 35 configuration items
+2015-07-25 02:21:08.5693 Info Adding target Database Target[database]
+2015-07-25 02:21:08.5883 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:21:08.6013 Info Found 35 configuration items
+2015-07-25 02:32:26.7263 Info Adding target Database Target[database]
+2015-07-25 02:32:26.7423 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:32:26.7533 Info Found 35 configuration items
+2015-07-25 02:33:43.8845 Info Shutting down logging...
+2015-07-25 02:33:43.9945 Info Closing old configuration.
+2015-07-25 02:33:44.1128 Info Logger has been shut down.
+2015-07-25 02:35:23.9423 Info Adding target Database Target[database]
+2015-07-25 02:35:23.9593 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:35:23.9753 Info Found 35 configuration items
+2015-07-25 02:36:03.9373 Info Adding target Database Target[database]
+2015-07-25 02:36:03.9533 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:36:03.9693 Info Found 35 configuration items
+2015-07-25 02:39:20.0790 Info Adding target Database Target[database]
+2015-07-25 02:39:20.0790 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:39:20.1000 Info Found 35 configuration items
+2015-07-25 02:39:44.8487 Info Adding target Database Target[database]
+2015-07-25 02:39:44.9128 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 02:39:45.0238 Info Found 35 configuration items
+2015-07-25 17:22:09.9062 Info Adding target Database Target[database]
+2015-07-25 17:22:09.9302 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 17:22:09.9412 Info Found 35 configuration items
+2015-07-25 17:36:42.5180 Info Adding target Database Target[database]
+2015-07-25 17:36:42.5180 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 17:36:42.5410 Info Found 35 configuration items
+2015-07-25 17:40:21.4025 Info Adding target Database Target[database]
+2015-07-25 17:40:21.5026 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 17:40:21.5537 Info Found 35 configuration items
+2015-07-25 18:36:36.6859 Info Adding target Database Target[database]
+2015-07-25 18:36:36.7349 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 18:36:36.8020 Info Found 35 configuration items
+2015-07-25 18:38:09.1276 Info Adding target Database Target[database]
+2015-07-25 18:38:09.1276 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 18:38:09.1526 Info Found 35 configuration items
+2015-07-25 18:43:14.2501 Info Adding target Database Target[database]
+2015-07-25 18:43:14.2501 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 18:43:14.2681 Info Found 35 configuration items
+2015-07-25 18:45:10.9658 Info Adding target Database Target[database]
+2015-07-25 18:45:10.9908 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-25 18:45:11.0189 Info Found 35 configuration items
+2015-07-26 16:50:12.9130 Info Adding target Database Target[database]
+2015-07-26 16:50:12.9360 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 16:50:12.9490 Info Found 35 configuration items
+2015-07-26 16:51:16.1262 Info Adding target Database Target[database]
+2015-07-26 16:51:16.1473 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 16:51:16.1613 Info Found 35 configuration items
+2015-07-26 17:00:20.8804 Info Adding target Database Target[database]
+2015-07-26 17:00:20.9274 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 17:00:20.9665 Info Found 35 configuration items
+2015-07-26 21:33:11.0578 Info Adding target Database Target[database]
+2015-07-26 21:33:11.0748 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 21:33:11.0888 Info Found 35 configuration items
+2015-07-26 21:39:25.2711 Info Adding target Database Target[database]
+2015-07-26 21:39:25.2881 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 21:39:25.3052 Info Found 35 configuration items
+2015-07-26 22:05:48.3630 Info Adding target Database Target[database]
+2015-07-26 22:05:48.3760 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 22:05:48.3910 Info Found 35 configuration items
+2015-07-26 22:31:05.3762 Info Adding target Database Target[database]
+2015-07-26 22:31:05.4032 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 22:31:05.4212 Info Found 35 configuration items
+2015-07-26 22:56:35.3314 Info Shutting down logging...
+2015-07-26 22:56:35.3314 Info Closing old configuration.
+2015-07-26 22:56:35.3504 Info Logger has been shut down.
+2015-07-26 23:42:24.5341 Info Adding target Database Target[database]
+2015-07-26 23:42:24.5341 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-26 23:42:24.5592 Info Found 35 configuration items
+2015-07-26 23:54:32.0452 Info Shutting down logging...
+2015-07-26 23:54:32.0533 Info Closing old configuration.
+2015-07-26 23:54:32.0773 Info Logger has been shut down.
+2015-07-27 00:23:16.8920 Info Adding target Database Target[database]
+2015-07-27 00:23:16.9260 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 00:23:16.9881 Info Found 35 configuration items
+2015-07-27 00:25:03.1947 Info Adding target Database Target[database]
+2015-07-27 00:25:03.2137 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 00:25:03.2267 Info Found 35 configuration items
+2015-07-27 00:28:59.6865 Info Adding target Database Target[database]
+2015-07-27 00:28:59.7365 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 00:28:59.7696 Info Found 35 configuration items
+2015-07-27 01:02:44.1936 Info Adding target Database Target[database]
+2015-07-27 01:02:44.2277 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 01:02:44.2427 Info Found 35 configuration items
+2015-07-27 15:42:44.2890 Info Adding target Database Target[database]
+2015-07-27 15:42:44.3040 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 15:42:44.3190 Info Found 35 configuration items
+2015-07-27 15:48:45.3644 Info Adding target Database Target[database]
+2015-07-27 15:48:45.3794 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 15:48:45.3935 Info Found 35 configuration items
+2015-07-27 16:07:58.1610 Info Adding target Database Target[database]
+2015-07-27 16:07:58.1720 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:07:58.1720 Info Found 35 configuration items
+2015-07-27 16:36:26.6474 Info Adding target Database Target[database]
+2015-07-27 16:36:26.6634 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:36:26.6805 Info Found 35 configuration items
+2015-07-27 16:44:31.2573 Info Adding target Database Target[database]
+2015-07-27 16:44:31.2693 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:44:31.2693 Info Found 35 configuration items
+2015-07-27 16:48:51.8752 Info Adding target Database Target[database]
+2015-07-27 16:48:51.8902 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:48:51.9092 Info Found 35 configuration items
+2015-07-27 16:53:36.6761 Info Adding target Database Target[database]
+2015-07-27 16:53:36.6931 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:53:36.7071 Info Found 35 configuration items
+2015-07-27 16:55:39.7194 Info Adding target Database Target[database]
+2015-07-27 16:55:39.7334 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 16:55:39.7504 Info Found 35 configuration items
+2015-07-27 22:45:13.6421 Info Adding target Database Target[database]
+2015-07-27 22:45:13.6566 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 22:45:13.6726 Info Found 35 configuration items
+2015-07-27 22:46:42.3629 Info Adding target Database Target[database]
+2015-07-27 22:46:42.3759 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 22:46:42.3759 Info Found 35 configuration items
+2015-07-27 23:26:53.8444 Info Adding target Database Target[database]
+2015-07-27 23:26:53.8584 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 23:26:53.8754 Info Found 35 configuration items
+2015-07-27 23:27:55.2825 Info Adding target Database Target[database]
+2015-07-27 23:27:55.2825 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 23:27:55.3096 Info Found 35 configuration items
+2015-07-27 23:29:36.6396 Info Adding target Database Target[database]
+2015-07-27 23:29:36.6396 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-27 23:29:36.6638 Info Found 35 configuration items
+2015-07-28 00:06:10.0405 Info Adding target Database Target[database]
+2015-07-28 00:06:10.0545 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 00:06:10.0695 Info Found 35 configuration items
+2015-07-28 01:08:47.8018 Info Adding target Database Target[database]
+2015-07-28 01:08:47.8178 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 01:08:47.8178 Info Found 35 configuration items
+2015-07-28 01:16:23.9235 Info Adding target Database Target[database]
+2015-07-28 01:16:23.9415 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 01:16:23.9535 Info Found 35 configuration items
+2015-07-28 01:20:17.4865 Info Adding target Database Target[database]
+2015-07-28 01:20:17.4865 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 01:20:17.5045 Info Found 35 configuration items
+2015-07-28 01:33:15.4428 Info Adding target Database Target[database]
+2015-07-28 01:33:15.4548 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 01:33:15.4548 Info Found 35 configuration items
+2015-07-28 01:37:55.7084 Info Adding target Database Target[database]
+2015-07-28 01:37:55.7224 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 01:37:55.7374 Info Found 35 configuration items
+2015-07-28 02:59:37.5852 Info Adding target Database Target[database]
+2015-07-28 02:59:37.5962 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-28 02:59:37.5962 Info Found 35 configuration items
+2015-07-29 22:34:16.2508 Info Adding target Database Target[database]
+2015-07-29 22:34:16.3028 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-29 22:34:16.3358 Info Found 35 configuration items
+2015-07-30 00:38:16.9096 Info Adding target Database Target[database]
+2015-07-30 00:38:16.9236 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-07-30 00:38:16.9407 Info Found 35 configuration items
+2015-08-01 11:42:43.3157 Info Adding target File Target[file]
+2015-08-01 11:42:43.3157 Info Adding target Database Target[database]
+2015-08-01 11:42:43.3347 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 11:42:43.3507 Info Found 74 configuration items
+2015-08-01 11:49:17.4574 Info Adding target File Target[file]
+2015-08-01 11:49:17.4734 Info Adding target Database Target[database]
+2015-08-01 11:49:17.4734 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 11:49:17.4904 Info Found 74 configuration items
+2015-08-01 17:18:20.8535 Info Adding target File Target[file]
+2015-08-01 17:18:20.8645 Info Adding target Database Target[database]
+2015-08-01 17:18:20.8645 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 17:18:20.8835 Info Found 74 configuration items
+2015-08-01 17:25:33.4760 Info Adding target File Target[file]
+2015-08-01 17:25:33.4881 Info Adding target Database Target[database]
+2015-08-01 17:25:33.4881 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 17:25:33.5091 Info Found 74 configuration items
+2015-08-01 17:26:55.9083 Info Adding target File Target[file]
+2015-08-01 17:26:55.9243 Info Adding target Database Target[database]
+2015-08-01 17:26:55.9383 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 17:26:55.9383 Info Found 74 configuration items
+2015-08-01 17:41:09.2809 Info Adding target File Target[file]
+2015-08-01 17:41:09.2969 Info Adding target Database Target[database]
+2015-08-01 17:41:09.2969 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 17:41:09.3279 Info Found 74 configuration items
+2015-08-01 18:00:29.4034 Info Adding target File Target[file]
+2015-08-01 18:00:29.4174 Info Adding target Database Target[database]
+2015-08-01 18:00:29.4254 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 18:00:29.4254 Info Found 74 configuration items
+2015-08-01 18:01:31.6196 Info Adding target File Target[file]
+2015-08-01 18:01:31.6672 Info Adding target Database Target[database]
+2015-08-01 18:01:31.6752 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 18:01:31.6752 Info Found 74 configuration items
+2015-08-01 19:05:14.2262 Info Adding target File Target[file]
+2015-08-01 19:05:14.2422 Info Adding target Database Target[database]
+2015-08-01 19:05:14.2542 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 19:05:14.2722 Info Found 74 configuration items
+2015-08-01 19:14:55.8281 Info Adding target File Target[file]
+2015-08-01 19:14:55.8437 Info Adding target Database Target[database]
+2015-08-01 19:14:55.8437 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 19:14:55.8593 Info Found 74 configuration items
+2015-08-01 19:16:56.9119 Info Adding target File Target[file]
+2015-08-01 19:16:56.9269 Info Adding target Database Target[database]
+2015-08-01 19:16:56.9380 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 19:16:56.9380 Info Found 74 configuration items
+2015-08-01 19:24:38.5149 Info Adding target File Target[file]
+2015-08-01 19:24:38.5149 Info Adding target Database Target[database]
+2015-08-01 19:24:38.5149 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 19:24:38.5305 Info Found 74 configuration items
+2015-08-01 19:25:50.1315 Info Adding target File Target[file]
+2015-08-01 19:25:50.1485 Info Adding target Database Target[database]
+2015-08-01 19:25:50.1615 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 19:25:50.1735 Info Found 74 configuration items
+2015-08-01 20:05:39.3261 Info Adding target File Target[file]
+2015-08-01 20:05:39.3371 Info Adding target Database Target[database]
+2015-08-01 20:05:39.3512 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:05:39.3642 Info Found 74 configuration items
+2015-08-01 20:23:34.4140 Info Adding target File Target[file]
+2015-08-01 20:23:34.4240 Info Adding target Database Target[database]
+2015-08-01 20:23:34.4380 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:23:34.4530 Info Found 74 configuration items
+2015-08-01 20:24:58.7065 Info Adding target File Target[file]
+2015-08-01 20:24:58.7216 Info Adding target Database Target[database]
+2015-08-01 20:24:58.7366 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:24:58.7526 Info Found 74 configuration items
+2015-08-01 20:37:28.0539 Info Adding target File Target[file]
+2015-08-01 20:37:28.0629 Info Adding target Database Target[database]
+2015-08-01 20:37:28.0629 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:37:28.0820 Info Found 74 configuration items
+2015-08-01 20:39:59.9684 Info Adding target File Target[file]
+2015-08-01 20:39:59.9684 Info Adding target Database Target[database]
+2015-08-01 20:39:59.9884 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:40:00.0214 Info Found 74 configuration items
+2015-08-01 20:43:08.8059 Info Adding target File Target[file]
+2015-08-01 20:43:08.8279 Info Adding target Database Target[database]
+2015-08-01 20:43:08.8279 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:43:08.8569 Info Found 74 configuration items
+2015-08-01 20:44:40.1430 Info Adding target File Target[file]
+2015-08-01 20:44:40.1560 Info Adding target Database Target[database]
+2015-08-01 20:44:40.1760 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:44:40.1951 Info Found 74 configuration items
+2015-08-01 20:51:46.5974 Info Adding target File Target[file]
+2015-08-01 20:51:46.5974 Info Adding target Database Target[database]
+2015-08-01 20:51:46.6114 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:51:46.6114 Info Found 74 configuration items
+2015-08-01 20:53:44.8656 Info Adding target File Target[file]
+2015-08-01 20:53:44.8766 Info Adding target Database Target[database]
+2015-08-01 20:53:44.8906 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:53:44.8906 Info Found 74 configuration items
+2015-08-01 20:58:34.8449 Info Adding target File Target[file]
+2015-08-01 20:58:34.8699 Info Adding target Database Target[database]
+2015-08-01 20:58:34.8899 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 20:58:34.9069 Info Found 74 configuration items
+2015-08-01 21:00:16.8455 Info Adding target File Target[file]
+2015-08-01 21:00:16.8715 Info Adding target Database Target[database]
+2015-08-01 21:00:16.8865 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 21:00:16.9035 Info Found 74 configuration items
+2015-08-01 21:04:41.1669 Info Adding target File Target[file]
+2015-08-01 21:04:41.1789 Info Adding target Database Target[database]
+2015-08-01 21:04:41.1949 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 21:04:41.2049 Info Found 74 configuration items
+2015-08-01 21:09:07.0155 Info Adding target File Target[file]
+2015-08-01 21:09:07.0326 Info Adding target Database Target[database]
+2015-08-01 21:09:07.0326 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 21:09:07.0576 Info Found 74 configuration items
+2015-08-01 23:13:04.2196 Info Adding target File Target[file]
+2015-08-01 23:13:04.2356 Info Adding target Database Target[database]
+2015-08-01 23:13:04.2777 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:13:04.4418 Info Found 74 configuration items
+2015-08-01 23:21:05.6220 Info Adding target File Target[file]
+2015-08-01 23:21:05.6340 Info Adding target Database Target[database]
+2015-08-01 23:21:05.6500 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:21:05.6600 Info Found 74 configuration items
+2015-08-01 23:23:41.6568 Info Adding target File Target[file]
+2015-08-01 23:23:41.6568 Info Adding target Database Target[database]
+2015-08-01 23:23:41.6758 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:23:41.6758 Info Found 74 configuration items
+2015-08-01 23:27:18.2969 Info Adding target File Target[file]
+2015-08-01 23:27:18.3340 Info Adding target Database Target[database]
+2015-08-01 23:27:18.3550 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:27:18.3680 Info Found 74 configuration items
+2015-08-01 23:38:57.0708 Info Adding target File Target[file]
+2015-08-01 23:38:57.0798 Info Adding target Database Target[database]
+2015-08-01 23:38:57.0928 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:38:57.1088 Info Found 74 configuration items
+2015-08-01 23:40:11.6009 Info Adding target File Target[file]
+2015-08-01 23:40:11.6299 Info Adding target Database Target[database]
+2015-08-01 23:40:11.6429 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:40:11.6599 Info Found 74 configuration items
+2015-08-01 23:41:06.4411 Info Adding target File Target[file]
+2015-08-01 23:41:06.4541 Info Adding target Database Target[database]
+2015-08-01 23:41:06.4541 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:41:06.4751 Info Found 74 configuration items
+2015-08-01 23:55:17.1621 Info Adding target File Target[file]
+2015-08-01 23:55:17.1751 Info Adding target Database Target[database]
+2015-08-01 23:55:17.1751 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-01 23:55:17.1931 Info Found 74 configuration items
+2015-08-02 00:05:51.7840 Info Adding target File Target[file]
+2015-08-02 00:05:51.7970 Info Adding target Database Target[database]
+2015-08-02 00:05:51.7970 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 00:05:51.8210 Info Found 74 configuration items
+2015-08-02 02:50:24.8170 Info Adding target File Target[file]
+2015-08-02 02:50:24.8270 Info Adding target Database Target[database]
+2015-08-02 02:50:24.8270 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 02:50:24.8470 Info Found 74 configuration items
+2015-08-02 02:51:06.6707 Info Adding target File Target[file]
+2015-08-02 02:51:06.6867 Info Adding target Database Target[database]
+2015-08-02 02:51:06.6867 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 02:51:06.7087 Info Found 74 configuration items
+2015-08-02 13:26:13.2891 Info Adding target File Target[file]
+2015-08-02 13:26:13.2994 Info Adding target Database Target[database]
+2015-08-02 13:26:13.3114 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 13:26:13.3114 Info Found 74 configuration items
+2015-08-02 15:52:22.9880 Info Adding target File Target[file]
+2015-08-02 15:52:22.9995 Info Adding target Database Target[database]
+2015-08-02 15:52:22.9995 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 15:52:23.0195 Info Found 74 configuration items
+2015-08-02 15:56:31.1751 Info Adding target File Target[file]
+2015-08-02 15:56:31.1891 Info Adding target Database Target[database]
+2015-08-02 15:56:31.1891 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 15:56:31.2101 Info Found 74 configuration items
+2015-08-02 18:46:33.6291 Info Adding target File Target[file]
+2015-08-02 18:46:33.6401 Info Adding target Database Target[database]
+2015-08-02 18:46:33.6401 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 18:46:33.6651 Info Found 74 configuration items
+2015-08-02 18:49:34.0550 Info Adding target File Target[file]
+2015-08-02 18:49:34.0701 Info Adding target Database Target[database]
+2015-08-02 18:49:34.0901 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 18:49:34.1201 Info Found 74 configuration items
+2015-08-02 18:51:32.1617 Info Adding target File Target[file]
+2015-08-02 18:51:32.1707 Info Adding target Database Target[database]
+2015-08-02 18:51:32.1707 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 18:51:32.1707 Info Found 74 configuration items
+2015-08-02 18:53:33.4147 Info Adding target File Target[file]
+2015-08-02 18:53:33.4228 Info Adding target Database Target[database]
+2015-08-02 18:53:33.4228 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 18:53:33.4448 Info Found 74 configuration items
+2015-08-02 18:57:46.4119 Info Adding target File Target[file]
+2015-08-02 18:57:46.4262 Info Adding target Database Target[database]
+2015-08-02 18:57:46.4382 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 18:57:46.4542 Info Found 74 configuration items
+2015-08-02 19:00:08.9901 Info Adding target File Target[file]
+2015-08-02 19:00:08.9991 Info Adding target Database Target[database]
+2015-08-02 19:00:08.9991 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:00:09.0161 Info Found 74 configuration items
+2015-08-02 19:04:53.1121 Info Adding target File Target[file]
+2015-08-02 19:04:53.1271 Info Adding target Database Target[database]
+2015-08-02 19:04:53.1271 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:04:53.1561 Info Found 74 configuration items
+2015-08-02 19:09:32.6607 Info Adding target File Target[file]
+2015-08-02 19:09:32.6737 Info Adding target Database Target[database]
+2015-08-02 19:09:32.6917 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:09:32.7027 Info Found 74 configuration items
+2015-08-02 19:34:55.9500 Info Adding target File Target[file]
+2015-08-02 19:34:55.9690 Info Adding target Database Target[database]
+2015-08-02 19:34:55.9690 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:34:55.9890 Info Found 74 configuration items
+2015-08-02 19:38:47.0473 Info Adding target File Target[file]
+2015-08-02 19:38:47.0794 Info Adding target Database Target[database]
+2015-08-02 19:38:47.1014 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:38:47.1264 Info Found 74 configuration items
+2015-08-02 19:49:25.6625 Info Adding target File Target[file]
+2015-08-02 19:49:25.6798 Info Adding target Database Target[database]
+2015-08-02 19:49:25.6929 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:49:25.7109 Info Found 74 configuration items
+2015-08-02 19:52:16.1648 Info Adding target File Target[file]
+2015-08-02 19:52:16.1898 Info Adding target Database Target[database]
+2015-08-02 19:52:16.1898 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:52:16.2288 Info Found 74 configuration items
+2015-08-02 19:55:09.5622 Info Adding target File Target[file]
+2015-08-02 19:55:09.5942 Info Adding target Database Target[database]
+2015-08-02 19:55:09.6172 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 19:55:09.6463 Info Found 74 configuration items
+2015-08-02 20:00:12.3430 Info Adding target File Target[file]
+2015-08-02 20:00:12.3430 Info Adding target Database Target[database]
+2015-08-02 20:00:12.3670 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 20:00:12.3780 Info Found 74 configuration items
+2015-08-02 21:13:41.0675 Info Adding target File Target[file]
+2015-08-02 21:13:41.0785 Info Adding target Database Target[database]
+2015-08-02 21:13:41.0785 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 21:13:41.0995 Info Found 74 configuration items
+2015-08-02 21:16:40.2708 Info Adding target File Target[file]
+2015-08-02 21:16:40.2818 Info Adding target Database Target[database]
+2015-08-02 21:16:40.2818 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 21:16:40.3009 Info Found 74 configuration items
+2015-08-02 21:28:28.7263 Info Adding target File Target[file]
+2015-08-02 21:28:28.7373 Info Adding target Database Target[database]
+2015-08-02 21:28:28.7524 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 21:28:28.7524 Info Found 74 configuration items
+2015-08-02 22:44:33.5047 Info Adding target File Target[file]
+2015-08-02 22:44:33.5180 Info Adding target Database Target[database]
+2015-08-02 22:44:33.5180 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 22:44:33.5430 Info Found 74 configuration items
+2015-08-02 22:47:40.5289 Info Adding target File Target[file]
+2015-08-02 22:47:40.5459 Info Adding target Database Target[database]
+2015-08-02 22:47:40.5459 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 22:47:40.5659 Info Found 74 configuration items
+2015-08-02 22:51:04.2337 Info Adding target File Target[file]
+2015-08-02 22:51:04.2337 Info Adding target Database Target[database]
+2015-08-02 22:51:04.2567 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 22:51:04.2657 Info Found 74 configuration items
+2015-08-02 22:53:12.1280 Info Adding target File Target[file]
+2015-08-02 22:53:12.1280 Info Adding target Database Target[database]
+2015-08-02 22:53:12.1480 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 22:53:12.1670 Info Found 74 configuration items
+2015-08-02 22:54:37.0753 Info Adding target File Target[file]
+2015-08-02 22:54:37.0973 Info Adding target Database Target[database]
+2015-08-02 22:54:37.1173 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 22:54:37.1474 Info Found 74 configuration items
+2015-08-02 23:00:40.5747 Info Adding target File Target[file]
+2015-08-02 23:00:40.5866 Info Adding target Database Target[database]
+2015-08-02 23:00:40.5967 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:00:40.6117 Info Found 74 configuration items
+2015-08-02 23:06:30.7248 Info Adding target File Target[file]
+2015-08-02 23:06:30.7368 Info Adding target Database Target[database]
+2015-08-02 23:06:30.7518 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:06:30.7518 Info Found 74 configuration items
+2015-08-02 23:17:27.2414 Info Adding target File Target[file]
+2015-08-02 23:17:27.2504 Info Adding target Database Target[database]
+2015-08-02 23:17:27.2504 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:17:27.2724 Info Found 74 configuration items
+2015-08-02 23:20:44.4944 Info Adding target File Target[file]
+2015-08-02 23:20:44.5344 Info Adding target Database Target[database]
+2015-08-02 23:20:44.5605 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:20:44.5855 Info Found 74 configuration items
+2015-08-02 23:23:27.1002 Info Adding target File Target[file]
+2015-08-02 23:23:27.1183 Info Adding target Database Target[database]
+2015-08-02 23:23:27.1273 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:23:27.1413 Info Found 74 configuration items
+2015-08-02 23:29:09.2516 Info Adding target File Target[file]
+2015-08-02 23:29:09.2643 Info Adding target Database Target[database]
+2015-08-02 23:29:09.2643 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:29:09.2863 Info Found 74 configuration items
+2015-08-02 23:30:58.3425 Info Adding target File Target[file]
+2015-08-02 23:30:58.3425 Info Adding target Database Target[database]
+2015-08-02 23:30:58.3666 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:30:58.3796 Info Found 74 configuration items
+2015-08-02 23:32:18.0085 Info Adding target File Target[file]
+2015-08-02 23:32:18.0224 Info Adding target Database Target[database]
+2015-08-02 23:32:18.0224 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:32:18.0435 Info Found 74 configuration items
+2015-08-02 23:38:48.8453 Info Adding target File Target[file]
+2015-08-02 23:38:48.8593 Info Adding target Database Target[database]
+2015-08-02 23:38:48.8773 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:38:48.8773 Info Found 74 configuration items
+2015-08-02 23:42:14.9956 Info Adding target File Target[file]
+2015-08-02 23:42:15.0096 Info Adding target Database Target[database]
+2015-08-02 23:42:15.0206 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:42:15.0206 Info Found 74 configuration items
+2015-08-02 23:43:49.2361 Info Adding target File Target[file]
+2015-08-02 23:43:49.2491 Info Adding target Database Target[database]
+2015-08-02 23:43:49.2661 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:43:49.2661 Info Found 74 configuration items
+2015-08-02 23:48:00.2589 Info Adding target File Target[file]
+2015-08-02 23:48:00.2800 Info Adding target Database Target[database]
+2015-08-02 23:48:00.2800 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:48:00.2980 Info Found 74 configuration items
+2015-08-02 23:50:49.5935 Info Adding target File Target[file]
+2015-08-02 23:50:49.6095 Info Adding target Database Target[database]
+2015-08-02 23:50:49.6095 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-02 23:50:49.6305 Info Found 74 configuration items
+2015-08-03 01:52:30.5571 Info Adding target File Target[file]
+2015-08-03 01:52:30.5772 Info Adding target Database Target[database]
+2015-08-03 01:52:30.6072 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 01:52:30.6292 Info Found 74 configuration items
+2015-08-03 02:02:05.0637 Info Adding target File Target[file]
+2015-08-03 02:02:05.0857 Info Adding target Database Target[database]
+2015-08-03 02:02:05.0967 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 02:02:05.1087 Info Found 74 configuration items
+2015-08-03 10:58:26.0312 Info Adding target File Target[file]
+2015-08-03 10:58:26.0853 Info Adding target Database Target[database]
+2015-08-03 10:58:26.1223 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 10:58:26.1543 Info Found 74 configuration items
+2015-08-03 11:02:27.0153 Info Adding target File Target[file]
+2015-08-03 11:02:27.0303 Info Adding target Database Target[database]
+2015-08-03 11:02:27.0303 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:02:27.0573 Info Found 74 configuration items
+2015-08-03 11:04:55.8315 Info Adding target File Target[file]
+2015-08-03 11:04:55.8525 Info Adding target Database Target[database]
+2015-08-03 11:04:55.8615 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:04:55.8765 Info Found 74 configuration items
+2015-08-03 11:27:36.2956 Info Adding target File Target[file]
+2015-08-03 11:27:36.3156 Info Adding target Database Target[database]
+2015-08-03 11:27:36.3336 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:27:36.3557 Info Found 74 configuration items
+2015-08-03 11:28:50.7761 Info Adding target File Target[file]
+2015-08-03 11:28:50.7871 Info Adding target Database Target[database]
+2015-08-03 11:28:50.8031 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:28:50.8161 Info Found 74 configuration items
+2015-08-03 11:30:50.7815 Info Adding target File Target[file]
+2015-08-03 11:30:50.8025 Info Adding target Database Target[database]
+2015-08-03 11:30:50.8265 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:30:50.8465 Info Found 74 configuration items
+2015-08-03 11:31:56.6577 Info Adding target File Target[file]
+2015-08-03 11:31:56.7218 Info Adding target Database Target[database]
+2015-08-03 11:31:56.7718 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 11:31:56.7948 Info Found 74 configuration items
+2015-08-03 12:15:11.2056 Info Adding target File Target[file]
+2015-08-03 12:15:11.2306 Info Adding target Database Target[database]
+2015-08-03 12:15:11.2436 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:15:11.2647 Info Found 74 configuration items
+2015-08-03 12:19:24.4026 Info Adding target File Target[file]
+2015-08-03 12:19:24.4156 Info Adding target Database Target[database]
+2015-08-03 12:19:24.4456 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:19:24.4796 Info Found 74 configuration items
+2015-08-03 12:21:20.6811 Info Adding target File Target[file]
+2015-08-03 12:21:20.7021 Info Adding target Database Target[database]
+2015-08-03 12:21:20.7021 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:21:20.7331 Info Found 74 configuration items
+2015-08-03 12:24:53.5456 Info Adding target File Target[file]
+2015-08-03 12:24:53.5456 Info Adding target Database Target[database]
+2015-08-03 12:24:53.5716 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:24:53.5866 Info Found 74 configuration items
+2015-08-03 12:28:41.6058 Info Adding target File Target[file]
+2015-08-03 12:28:41.6243 Info Adding target Database Target[database]
+2015-08-03 12:28:41.6243 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:28:41.6623 Info Found 74 configuration items
+2015-08-03 12:35:53.9675 Info Adding target File Target[file]
+2015-08-03 12:35:53.9675 Info Adding target Database Target[database]
+2015-08-03 12:35:53.9975 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:35:54.0115 Info Found 74 configuration items
+2015-08-03 12:37:33.0833 Info Adding target File Target[file]
+2015-08-03 12:37:33.0963 Info Adding target Database Target[database]
+2015-08-03 12:37:33.1183 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:37:33.1303 Info Found 74 configuration items
+2015-08-03 12:40:35.5857 Info Adding target File Target[file]
+2015-08-03 12:40:35.5987 Info Adding target Database Target[database]
+2015-08-03 12:40:35.6167 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:40:35.6287 Info Found 74 configuration items
+2015-08-03 12:45:38.1367 Info Adding target File Target[file]
+2015-08-03 12:45:38.1567 Info Adding target Database Target[database]
+2015-08-03 12:45:38.1717 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:45:38.1968 Info Found 74 configuration items
+2015-08-03 12:54:53.2048 Info Adding target File Target[file]
+2015-08-03 12:54:53.2248 Info Adding target Database Target[database]
+2015-08-03 12:54:53.2468 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 12:54:53.2839 Info Found 74 configuration items
+2015-08-03 13:52:14.7584 Info Adding target File Target[file]
+2015-08-03 13:52:14.7804 Info Adding target Database Target[database]
+2015-08-03 13:52:14.7804 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 13:52:14.8074 Info Found 74 configuration items
+2015-08-03 13:56:37.4096 Info Adding target File Target[file]
+2015-08-03 13:56:37.4236 Info Adding target Database Target[database]
+2015-08-03 13:56:37.4416 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 13:56:37.4536 Info Found 74 configuration items
+2015-08-03 13:59:04.7623 Info Adding target File Target[file]
+2015-08-03 13:59:04.7804 Info Adding target Database Target[database]
+2015-08-03 13:59:04.7804 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 13:59:04.8124 Info Found 74 configuration items
+2015-08-03 15:37:42.7552 Info Adding target File Target[file]
+2015-08-03 15:37:42.7802 Info Adding target Database Target[database]
+2015-08-03 15:37:42.7802 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 15:37:42.8132 Info Found 74 configuration items
+2015-08-03 19:42:30.1512 Info Adding target File Target[file]
+2015-08-03 19:42:30.1634 Info Adding target Database Target[database]
+2015-08-03 19:42:30.1794 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 19:42:30.1884 Info Found 74 configuration items
+2015-08-03 19:44:01.4421 Info Adding target File Target[file]
+2015-08-03 19:44:01.4551 Info Adding target Database Target[database]
+2015-08-03 19:44:01.4551 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 19:44:01.4812 Info Found 74 configuration items
+2015-08-03 20:47:02.0390 Info Adding target File Target[file]
+2015-08-03 20:47:02.0490 Info Adding target Database Target[database]
+2015-08-03 20:47:02.0490 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 20:47:02.0690 Info Found 74 configuration items
+2015-08-03 20:50:48.8814 Info Adding target File Target[file]
+2015-08-03 20:50:48.8954 Info Adding target Database Target[database]
+2015-08-03 20:50:48.9124 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 20:50:48.9635 Info Found 74 configuration items
+2015-08-03 20:56:58.5961 Info Adding target File Target[file]
+2015-08-03 20:56:58.6191 Info Adding target Database Target[database]
+2015-08-03 20:56:58.6281 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 20:56:58.6281 Info Found 74 configuration items
+2015-08-03 20:59:22.6754 Info Adding target File Target[file]
+2015-08-03 20:59:22.6884 Info Adding target Database Target[database]
+2015-08-03 20:59:22.6884 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 20:59:22.7074 Info Found 74 configuration items
+2015-08-03 21:07:45.1580 Info Adding target File Target[file]
+2015-08-03 21:07:45.1730 Info Adding target Database Target[database]
+2015-08-03 21:07:45.1730 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:07:45.2130 Info Found 74 configuration items
+2015-08-03 21:11:45.0392 Info Adding target File Target[file]
+2015-08-03 21:11:45.0548 Info Adding target Database Target[database]
+2015-08-03 21:11:45.0679 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:11:45.0789 Info Found 74 configuration items
+2015-08-03 21:16:22.4399 Info Adding target File Target[file]
+2015-08-03 21:16:22.4399 Info Adding target Database Target[database]
+2015-08-03 21:16:22.4591 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:16:22.4741 Info Found 74 configuration items
+2015-08-03 21:21:55.7978 Info Adding target File Target[file]
+2015-08-03 21:21:55.7978 Info Adding target Database Target[database]
+2015-08-03 21:21:55.8198 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:21:55.8298 Info Found 74 configuration items
+2015-08-03 21:25:51.3989 Info Adding target File Target[file]
+2015-08-03 21:25:51.3989 Info Adding target Database Target[database]
+2015-08-03 21:25:51.4145 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:25:51.4145 Info Found 74 configuration items
+2015-08-03 21:28:57.0930 Info Adding target File Target[file]
+2015-08-03 21:28:57.0930 Info Adding target Database Target[database]
+2015-08-03 21:28:57.1160 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:28:57.1270 Info Found 74 configuration items
+2015-08-03 21:30:43.8739 Info Adding target File Target[file]
+2015-08-03 21:30:43.8909 Info Adding target Database Target[database]
+2015-08-03 21:30:43.8909 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:30:43.9140 Info Found 74 configuration items
+2015-08-03 21:33:38.6027 Info Adding target File Target[file]
+2015-08-03 21:33:38.6237 Info Adding target Database Target[database]
+2015-08-03 21:33:38.6407 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:33:38.6407 Info Found 74 configuration items
+2015-08-03 21:34:57.6772 Info Adding target File Target[file]
+2015-08-03 21:34:57.6872 Info Adding target Database Target[database]
+2015-08-03 21:34:57.6872 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:34:57.7092 Info Found 74 configuration items
+2015-08-03 21:38:56.9061 Info Adding target File Target[file]
+2015-08-03 21:38:56.9341 Info Adding target Database Target[database]
+2015-08-03 21:38:56.9521 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:38:56.9791 Info Found 74 configuration items
+2015-08-03 21:48:17.7838 Info Adding target File Target[file]
+2015-08-03 21:48:17.8049 Info Adding target Database Target[database]
+2015-08-03 21:48:17.8189 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:48:17.8369 Info Found 74 configuration items
+2015-08-03 21:52:27.5373 Info Adding target File Target[file]
+2015-08-03 21:52:27.5490 Info Adding target Database Target[database]
+2015-08-03 21:52:27.5490 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-03 21:52:27.5670 Info Found 74 configuration items
+2015-08-04 00:21:08.2183 Info Adding target File Target[file]
+2015-08-04 00:21:08.2383 Info Adding target Database Target[database]
+2015-08-04 00:21:08.2704 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:21:08.2934 Info Found 74 configuration items
+2015-08-04 00:24:14.5247 Info Adding target File Target[file]
+2015-08-04 00:24:14.5367 Info Adding target Database Target[database]
+2015-08-04 00:24:14.5588 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:24:14.5798 Info Found 74 configuration items
+2015-08-04 00:30:05.3455 Info Adding target File Target[file]
+2015-08-04 00:30:05.3455 Info Adding target Database Target[database]
+2015-08-04 00:30:05.3653 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:30:05.3746 Info Found 74 configuration items
+2015-08-04 00:33:20.3556 Info Adding target File Target[file]
+2015-08-04 00:33:20.3786 Info Adding target Database Target[database]
+2015-08-04 00:33:20.3966 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:33:20.4136 Info Found 74 configuration items
+2015-08-04 00:36:04.5073 Info Adding target File Target[file]
+2015-08-04 00:36:04.5213 Info Adding target Database Target[database]
+2015-08-04 00:36:04.5323 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:36:04.5493 Info Found 74 configuration items
+2015-08-04 00:39:54.9297 Info Adding target File Target[file]
+2015-08-04 00:39:54.9397 Info Adding target Database Target[database]
+2015-08-04 00:39:54.9658 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 00:39:54.9888 Info Found 74 configuration items
+2015-08-04 01:31:57.9847 Info Adding target File Target[file]
+2015-08-04 01:31:58.0007 Info Adding target Database Target[database]
+2015-08-04 01:31:58.0167 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:31:58.0337 Info Found 74 configuration items
+2015-08-04 01:49:08.0011 Info Adding target File Target[file]
+2015-08-04 01:49:08.0191 Info Adding target Database Target[database]
+2015-08-04 01:49:08.0191 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:49:08.0571 Info Found 74 configuration items
+2015-08-04 01:50:44.6487 Info Adding target File Target[file]
+2015-08-04 01:50:44.6617 Info Adding target Database Target[database]
+2015-08-04 01:50:44.6617 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:50:44.6847 Info Found 74 configuration items
+2015-08-04 01:52:48.9494 Info Adding target File Target[file]
+2015-08-04 01:52:48.9714 Info Adding target Database Target[database]
+2015-08-04 01:52:48.9924 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:52:49.0084 Info Found 74 configuration items
+2015-08-04 01:57:06.7764 Info Adding target File Target[file]
+2015-08-04 01:57:06.7905 Info Adding target Database Target[database]
+2015-08-04 01:57:06.7995 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:57:06.8115 Info Found 74 configuration items
+2015-08-04 01:59:08.8161 Info Adding target File Target[file]
+2015-08-04 01:59:08.8281 Info Adding target Database Target[database]
+2015-08-04 01:59:08.8441 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 01:59:08.8441 Info Found 74 configuration items
+2015-08-04 02:00:03.5676 Info Adding target File Target[file]
+2015-08-04 02:00:03.5785 Info Adding target Database Target[database]
+2015-08-04 02:00:03.5926 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:00:03.5926 Info Found 74 configuration items
+2015-08-04 02:03:42.9990 Info Adding target File Target[file]
+2015-08-04 02:03:42.9990 Info Adding target Database Target[database]
+2015-08-04 02:03:43.0200 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:03:43.0200 Info Found 74 configuration items
+2015-08-04 02:06:55.2439 Info Adding target File Target[file]
+2015-08-04 02:06:55.2609 Info Adding target Database Target[database]
+2015-08-04 02:06:55.2900 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:06:55.3220 Info Found 74 configuration items
+2015-08-04 02:09:20.2052 Info Adding target File Target[file]
+2015-08-04 02:09:20.2192 Info Adding target Database Target[database]
+2015-08-04 02:09:20.2343 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:09:20.2523 Info Found 74 configuration items
+2015-08-04 02:12:11.5662 Info Adding target File Target[file]
+2015-08-04 02:12:11.5771 Info Adding target Database Target[database]
+2015-08-04 02:12:11.5771 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:12:11.6042 Info Found 74 configuration items
+2015-08-04 02:15:53.1305 Info Adding target File Target[file]
+2015-08-04 02:15:53.1395 Info Adding target Database Target[database]
+2015-08-04 02:15:53.1395 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:15:53.1626 Info Found 74 configuration items
+2015-08-04 02:17:21.1812 Info Adding target File Target[file]
+2015-08-04 02:17:21.1902 Info Adding target Database Target[database]
+2015-08-04 02:17:21.1902 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:17:21.2092 Info Found 74 configuration items
+2015-08-04 02:18:23.0113 Info Adding target File Target[file]
+2015-08-04 02:18:23.0283 Info Adding target Database Target[database]
+2015-08-04 02:18:23.0473 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:18:23.0753 Info Found 74 configuration items
+2015-08-04 02:40:18.4798 Info Adding target File Target[file]
+2015-08-04 02:40:18.4948 Info Adding target Database Target[database]
+2015-08-04 02:40:18.5038 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 02:40:18.5038 Info Found 74 configuration items
+2015-08-04 10:19:32.7159 Info Adding target File Target[file]
+2015-08-04 10:19:32.7249 Info Adding target Database Target[database]
+2015-08-04 10:19:32.7379 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 10:19:32.7489 Info Found 74 configuration items
+2015-08-04 13:29:13.8079 Info Adding target File Target[file]
+2015-08-04 13:29:13.8279 Info Adding target Database Target[database]
+2015-08-04 13:29:13.8279 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 13:29:13.8639 Info Found 74 configuration items
+2015-08-04 13:54:31.3038 Info Adding target File Target[file]
+2015-08-04 13:54:31.3548 Info Adding target Database Target[database]
+2015-08-04 13:54:31.3758 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 13:54:31.4099 Info Found 74 configuration items
+2015-08-04 14:09:28.5989 Info Adding target File Target[file]
+2015-08-04 14:09:28.6179 Info Adding target Database Target[database]
+2015-08-04 14:09:28.6309 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 14:09:28.6830 Info Found 74 configuration items
+2015-08-04 14:10:28.7393 Info Adding target File Target[file]
+2015-08-04 14:10:28.7504 Info Adding target Database Target[database]
+2015-08-04 14:10:28.7504 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 14:10:28.7774 Info Found 74 configuration items
+2015-08-04 14:36:15.7248 Info Adding target File Target[file]
+2015-08-04 14:36:15.7488 Info Adding target Database Target[database]
+2015-08-04 14:36:15.7488 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 14:36:15.7808 Info Found 74 configuration items
+2015-08-04 15:25:58.9903 Info Adding target File Target[file]
+2015-08-04 15:25:59.0013 Info Adding target Database Target[database]
+2015-08-04 15:25:59.0013 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 15:25:59.0223 Info Found 74 configuration items
+2015-08-04 15:56:01.7375 Info Adding target File Target[file]
+2015-08-04 15:56:01.7495 Info Adding target Database Target[database]
+2015-08-04 15:56:01.7495 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 15:56:01.7735 Info Found 74 configuration items
+2015-08-04 16:14:22.7227 Info Adding target File Target[file]
+2015-08-04 16:14:22.7227 Info Adding target Database Target[database]
+2015-08-04 16:14:22.7447 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 16:14:22.7517 Info Found 74 configuration items
+2015-08-04 16:19:00.9614 Info Adding target File Target[file]
+2015-08-04 16:19:00.9714 Info Adding target Database Target[database]
+2015-08-04 16:19:00.9714 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 16:19:00.9924 Info Found 74 configuration items
+2015-08-04 16:25:35.4076 Info Adding target File Target[file]
+2015-08-04 16:25:35.4226 Info Adding target Database Target[database]
+2015-08-04 16:25:35.4226 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 16:25:35.4406 Info Found 74 configuration items
+2015-08-04 17:01:41.1600 Info Adding target File Target[file]
+2015-08-04 17:01:41.1820 Info Adding target Database Target[database]
+2015-08-04 17:01:41.1900 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:01:41.1900 Info Found 74 configuration items
+2015-08-04 17:28:19.3169 Info Adding target File Target[file]
+2015-08-04 17:28:19.3289 Info Adding target Database Target[database]
+2015-08-04 17:28:19.3439 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:28:19.3439 Info Found 74 configuration items
+2015-08-04 17:43:16.4839 Info Adding target File Target[file]
+2015-08-04 17:43:16.4839 Info Adding target Database Target[database]
+2015-08-04 17:43:16.5039 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:43:16.5159 Info Found 74 configuration items
+2015-08-04 17:51:28.8931 Info Adding target File Target[file]
+2015-08-04 17:51:28.8931 Info Adding target Database Target[database]
+2015-08-04 17:51:28.9087 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:51:28.9087 Info Found 74 configuration items
+2015-08-04 17:52:17.5078 Info Adding target File Target[file]
+2015-08-04 17:52:17.5208 Info Adding target Database Target[database]
+2015-08-04 17:52:17.5308 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:52:17.5308 Info Found 74 configuration items
+2015-08-04 17:57:02.7560 Info Adding target File Target[file]
+2015-08-04 17:57:02.7670 Info Adding target Database Target[database]
+2015-08-04 17:57:02.7800 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 17:57:02.7960 Info Found 74 configuration items
+2015-08-04 18:01:42.5887 Info Adding target File Target[file]
+2015-08-04 18:01:42.6007 Info Adding target Database Target[database]
+2015-08-04 18:01:42.6087 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 18:01:42.6087 Info Found 74 configuration items
+2015-08-04 18:02:41.6837 Info Adding target File Target[file]
+2015-08-04 18:02:41.6957 Info Adding target Database Target[database]
+2015-08-04 18:02:41.6957 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 18:02:41.7107 Info Found 74 configuration items
+2015-08-04 18:05:26.4404 Info Adding target File Target[file]
+2015-08-04 18:05:26.4544 Info Adding target Database Target[database]
+2015-08-04 18:05:26.4544 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 18:05:26.4785 Info Found 74 configuration items
+2015-08-04 19:36:48.2822 Info Adding target File Target[file]
+2015-08-04 19:36:48.2822 Info Adding target Database Target[database]
+2015-08-04 19:36:48.3052 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 19:36:48.3262 Info Found 74 configuration items
+2015-08-04 19:54:35.9718 Info Adding target File Target[file]
+2015-08-04 19:54:35.9838 Info Adding target Database Target[database]
+2015-08-04 19:54:35.9838 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 19:54:36.0068 Info Found 74 configuration items
+2015-08-04 20:05:45.6476 Info Adding target File Target[file]
+2015-08-04 20:05:45.6586 Info Adding target Database Target[database]
+2015-08-04 20:05:45.6736 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:05:45.6736 Info Found 74 configuration items
+2015-08-04 20:08:49.8653 Info Adding target File Target[file]
+2015-08-04 20:08:49.8813 Info Adding target Database Target[database]
+2015-08-04 20:08:49.8943 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:08:49.9053 Info Found 74 configuration items
+2015-08-04 20:35:06.4770 Info Adding target File Target[file]
+2015-08-04 20:35:06.4880 Info Adding target Database Target[database]
+2015-08-04 20:35:06.4880 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:35:06.5070 Info Found 74 configuration items
+2015-08-04 20:37:21.4259 Info Adding target File Target[file]
+2015-08-04 20:37:21.4379 Info Adding target Database Target[database]
+2015-08-04 20:37:21.4379 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:37:21.4689 Info Found 74 configuration items
+2015-08-04 20:43:43.4406 Info Adding target File Target[file]
+2015-08-04 20:43:43.4576 Info Adding target Database Target[database]
+2015-08-04 20:43:43.4726 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:43:43.4896 Info Found 74 configuration items
+2015-08-04 20:45:02.6043 Info Adding target File Target[file]
+2015-08-04 20:45:02.6123 Info Adding target Database Target[database]
+2015-08-04 20:45:02.6123 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:45:02.6373 Info Found 74 configuration items
+2015-08-04 20:53:36.1885 Info Adding target File Target[file]
+2015-08-04 20:53:36.1885 Info Adding target Database Target[database]
+2015-08-04 20:53:36.2205 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 20:53:36.2205 Info Found 74 configuration items
+2015-08-04 21:01:14.9219 Info Adding target File Target[file]
+2015-08-04 21:01:14.9219 Info Adding target Database Target[database]
+2015-08-04 21:01:14.9450 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 21:01:14.9530 Info Found 74 configuration items
+2015-08-04 21:05:32.4292 Info Adding target File Target[file]
+2015-08-04 21:05:32.4483 Info Adding target Database Target[database]
+2015-08-04 21:05:32.4603 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 21:05:32.4793 Info Found 74 configuration items
+2015-08-04 22:15:37.2228 Info Adding target File Target[file]
+2015-08-04 22:15:37.2388 Info Adding target Database Target[database]
+2015-08-04 22:15:37.2508 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 22:15:37.2678 Info Found 74 configuration items
+2015-08-04 22:17:55.2655 Info Adding target File Target[file]
+2015-08-04 22:17:55.2825 Info Adding target Database Target[database]
+2015-08-04 22:17:55.2825 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 22:17:55.3096 Info Found 74 configuration items
+2015-08-04 22:50:33.4258 Info Adding target File Target[file]
+2015-08-04 22:50:33.4379 Info Adding target Database Target[database]
+2015-08-04 22:50:33.4669 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 22:50:33.4829 Info Found 74 configuration items
+2015-08-04 23:14:04.3466 Info Adding target File Target[file]
+2015-08-04 23:14:04.3787 Info Adding target Database Target[database]
+2015-08-04 23:14:04.3987 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 23:14:04.4277 Info Found 74 configuration items
+2015-08-04 23:20:04.3586 Info Adding target File Target[file]
+2015-08-04 23:20:04.3586 Info Adding target Database Target[database]
+2015-08-04 23:20:04.3746 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 23:20:04.4046 Info Found 74 configuration items
+2015-08-04 23:26:41.8143 Info Adding target File Target[file]
+2015-08-04 23:26:41.8504 Info Adding target Database Target[database]
+2015-08-04 23:26:41.8654 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-04 23:26:41.9154 Info Found 74 configuration items
+2015-08-05 00:14:58.0876 Info Adding target File Target[file]
+2015-08-05 00:14:58.0996 Info Adding target Database Target[database]
+2015-08-05 00:14:58.1096 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:14:58.1096 Info Found 74 configuration items
+2015-08-05 00:18:21.8172 Info Adding target File Target[file]
+2015-08-05 00:18:21.8333 Info Adding target Database Target[database]
+2015-08-05 00:18:21.8333 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:18:21.8503 Info Found 74 configuration items
+2015-08-05 00:21:27.1148 Info Adding target File Target[file]
+2015-08-05 00:21:27.1237 Info Adding target Database Target[database]
+2015-08-05 00:21:27.1237 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:21:27.1418 Info Found 74 configuration items
+2015-08-05 00:25:37.9995 Info Adding target File Target[file]
+2015-08-05 00:25:37.9995 Info Adding target Database Target[database]
+2015-08-05 00:25:38.0195 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:25:38.0305 Info Found 74 configuration items
+2015-08-05 00:26:32.9797 Info Adding target File Target[file]
+2015-08-05 00:26:33.0478 Info Adding target Database Target[database]
+2015-08-05 00:26:33.0478 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:26:33.0718 Info Found 74 configuration items
+2015-08-05 00:27:48.9087 Info Adding target File Target[file]
+2015-08-05 00:27:48.9227 Info Adding target Database Target[database]
+2015-08-05 00:27:48.9227 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 00:27:48.9397 Info Found 74 configuration items
+2015-08-05 04:36:29.1300 Info Adding target File Target[file]
+2015-08-05 04:36:29.1431 Info Adding target Database Target[database]
+2015-08-05 04:36:29.1431 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:36:29.1691 Info Found 74 configuration items
+2015-08-05 04:38:08.2033 Info Adding target File Target[file]
+2015-08-05 04:38:08.2033 Info Adding target Database Target[database]
+2015-08-05 04:38:08.2283 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:38:08.2373 Info Found 74 configuration items
+2015-08-05 04:44:18.5655 Info Adding target File Target[file]
+2015-08-05 04:44:18.5775 Info Adding target Database Target[database]
+2015-08-05 04:44:18.5775 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:44:18.6005 Info Found 74 configuration items
+2015-08-05 04:47:29.5564 Info Adding target File Target[file]
+2015-08-05 04:47:29.5674 Info Adding target Database Target[database]
+2015-08-05 04:47:29.5674 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:47:29.5854 Info Found 74 configuration items
+2015-08-05 04:48:18.2965 Info Adding target File Target[file]
+2015-08-05 04:48:18.3375 Info Adding target Database Target[database]
+2015-08-05 04:48:18.3715 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:48:18.4025 Info Found 74 configuration items
+2015-08-05 04:48:56.8452 Info Adding target File Target[file]
+2015-08-05 04:48:56.8452 Info Adding target Database Target[database]
+2015-08-05 04:48:56.8612 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:48:56.8612 Info Found 74 configuration items
+2015-08-05 04:57:34.6302 Info Adding target File Target[file]
+2015-08-05 04:57:34.6441 Info Adding target Database Target[database]
+2015-08-05 04:57:34.6561 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 04:57:34.6822 Info Found 74 configuration items
+2015-08-05 05:03:26.1937 Info Adding target File Target[file]
+2015-08-05 05:03:26.2057 Info Adding target Database Target[database]
+2015-08-05 05:03:26.2207 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 05:03:26.2207 Info Found 74 configuration items
+2015-08-05 08:21:07.2873 Info Adding target File Target[file]
+2015-08-05 08:21:07.3013 Info Adding target Database Target[database]
+2015-08-05 08:21:07.3013 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 08:21:07.3174 Info Found 74 configuration items
+2015-08-05 08:23:53.4748 Info Adding target File Target[file]
+2015-08-05 08:23:53.4838 Info Adding target Database Target[database]
+2015-08-05 08:23:53.4838 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 08:23:53.5038 Info Found 74 configuration items
+2015-08-05 08:25:53.1687 Info Adding target File Target[file]
+2015-08-05 08:25:53.1767 Info Adding target Database Target[database]
+2015-08-05 08:25:53.2087 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 08:25:53.2317 Info Found 74 configuration items
+2015-08-05 10:08:51.3693 Info Adding target File Target[file]
+2015-08-05 10:08:51.3993 Info Adding target Database Target[database]
+2015-08-05 10:08:51.4183 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:08:51.4363 Info Found 74 configuration items
+2015-08-05 10:14:59.8906 Info Adding target File Target[file]
+2015-08-05 10:14:59.9086 Info Adding target Database Target[database]
+2015-08-05 10:14:59.9086 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:14:59.9416 Info Found 74 configuration items
+2015-08-05 10:18:15.2426 Info Adding target File Target[file]
+2015-08-05 10:18:15.2526 Info Adding target Database Target[database]
+2015-08-05 10:18:15.2526 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:18:15.2846 Info Found 74 configuration items
+2015-08-05 10:19:42.5666 Info Adding target File Target[file]
+2015-08-05 10:19:42.5776 Info Adding target Database Target[database]
+2015-08-05 10:19:42.5776 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:19:42.5966 Info Found 74 configuration items
+2015-08-05 10:37:05.3449 Info Adding target File Target[file]
+2015-08-05 10:37:05.3589 Info Adding target Database Target[database]
+2015-08-05 10:37:05.3589 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:37:05.3879 Info Found 74 configuration items
+2015-08-05 10:54:38.0682 Info Adding target File Target[file]
+2015-08-05 10:54:38.0772 Info Adding target Database Target[database]
+2015-08-05 10:54:38.0772 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 10:54:38.1063 Info Found 74 configuration items
+2015-08-05 11:00:09.4279 Info Adding target File Target[file]
+2015-08-05 11:00:09.4409 Info Adding target Database Target[database]
+2015-08-05 11:00:09.4619 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:00:09.4849 Info Found 74 configuration items
+2015-08-05 11:24:18.7062 Info Adding target File Target[file]
+2015-08-05 11:24:18.7062 Info Adding target Database Target[database]
+2015-08-05 11:24:18.7302 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:24:18.7432 Info Found 74 configuration items
+2015-08-05 11:29:24.0995 Info Adding target File Target[file]
+2015-08-05 11:29:24.1215 Info Adding target Database Target[database]
+2015-08-05 11:29:24.1395 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:29:24.1625 Info Found 74 configuration items
+2015-08-05 11:31:12.1915 Info Adding target File Target[file]
+2015-08-05 11:31:12.2045 Info Adding target Database Target[database]
+2015-08-05 11:31:12.2355 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:31:12.2575 Info Found 74 configuration items
+2015-08-05 11:34:00.9192 Info Adding target File Target[file]
+2015-08-05 11:34:00.9362 Info Adding target Database Target[database]
+2015-08-05 11:34:00.9362 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:34:00.9522 Info Found 74 configuration items
+2015-08-05 11:39:53.5319 Info Adding target File Target[file]
+2015-08-05 11:39:53.5489 Info Adding target Database Target[database]
+2015-08-05 11:39:53.5489 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:39:53.5749 Info Found 74 configuration items
+2015-08-05 11:51:32.0042 Info Adding target File Target[file]
+2015-08-05 11:51:32.0152 Info Adding target Database Target[database]
+2015-08-05 11:51:32.0302 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:51:32.0302 Info Found 74 configuration items
+2015-08-05 11:54:35.3172 Info Adding target File Target[file]
+2015-08-05 11:54:35.3282 Info Adding target Database Target[database]
+2015-08-05 11:54:35.3282 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:54:35.3533 Info Found 74 configuration items
+2015-08-05 11:56:59.3136 Info Adding target File Target[file]
+2015-08-05 11:56:59.3276 Info Adding target Database Target[database]
+2015-08-05 11:56:59.3276 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 11:56:59.3487 Info Found 74 configuration items
+2015-08-05 13:00:03.3070 Info Adding target File Target[file]
+2015-08-05 13:00:03.3270 Info Adding target Database Target[database]
+2015-08-05 13:00:03.3270 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:00:03.3600 Info Found 74 configuration items
+2015-08-05 13:02:03.3528 Info Adding target File Target[file]
+2015-08-05 13:02:03.3708 Info Adding target Database Target[database]
+2015-08-05 13:02:03.3799 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:02:03.3969 Info Found 74 configuration items
+2015-08-05 13:13:14.0726 Info Adding target File Target[file]
+2015-08-05 13:13:14.0816 Info Adding target Database Target[database]
+2015-08-05 13:13:14.0966 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:13:14.1086 Info Found 74 configuration items
+2015-08-05 13:29:07.5061 Info Adding target File Target[file]
+2015-08-05 13:29:07.5231 Info Adding target Database Target[database]
+2015-08-05 13:29:07.5381 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:29:07.5551 Info Found 74 configuration items
+2015-08-05 13:30:02.9249 Info Adding target File Target[file]
+2015-08-05 13:30:02.9519 Info Adding target Database Target[database]
+2015-08-05 13:30:02.9519 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:30:02.9889 Info Found 74 configuration items
+2015-08-05 13:49:07.8118 Info Adding target File Target[file]
+2015-08-05 13:49:07.8288 Info Adding target Database Target[database]
+2015-08-05 13:49:07.8448 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 13:49:07.8448 Info Found 74 configuration items
+2015-08-05 14:11:46.8028 Info Adding target File Target[file]
+2015-08-05 14:11:46.8148 Info Adding target Database Target[database]
+2015-08-05 14:11:46.8148 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 14:11:46.8328 Info Found 74 configuration items
+2015-08-05 14:35:54.9500 Info Adding target File Target[file]
+2015-08-05 14:35:54.9589 Info Adding target Database Target[database]
+2015-08-05 14:35:54.9690 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 14:35:54.9840 Info Found 74 configuration items
+2015-08-05 14:44:56.6035 Info Adding target File Target[file]
+2015-08-05 14:44:56.6165 Info Adding target Database Target[database]
+2015-08-05 14:44:56.6336 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 14:44:56.6466 Info Found 74 configuration items
+2015-08-05 15:08:30.1125 Info Adding target File Target[file]
+2015-08-05 15:08:30.1246 Info Adding target Database Target[database]
+2015-08-05 15:08:30.1246 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 15:08:30.1536 Info Found 74 configuration items
+2015-08-05 17:22:26.1323 Info Adding target File Target[file]
+2015-08-05 17:22:26.2093 Info Adding target Database Target[database]
+2015-08-05 17:22:26.2804 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 17:22:26.2804 Info Found 74 configuration items
+2015-08-05 17:27:12.2053 Info Adding target File Target[file]
+2015-08-05 17:27:12.2383 Info Adding target Database Target[database]
+2015-08-05 17:27:12.2553 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 17:27:12.2914 Info Found 74 configuration items
+2015-08-05 17:28:27.3117 Info Adding target File Target[file]
+2015-08-05 17:28:27.3117 Info Adding target Database Target[database]
+2015-08-05 17:28:27.3457 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 17:28:27.3647 Info Found 74 configuration items
+2015-08-05 17:48:07.0259 Info Adding target File Target[file]
+2015-08-05 17:48:07.0369 Info Adding target Database Target[database]
+2015-08-05 17:48:07.0489 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 17:48:07.0629 Info Found 74 configuration items
+2015-08-05 18:07:21.8433 Info Adding target File Target[file]
+2015-08-05 18:07:21.8589 Info Adding target Database Target[database]
+2015-08-05 18:07:21.8769 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 18:07:21.8979 Info Found 74 configuration items
+2015-08-05 18:08:53.0540 Info Adding target File Target[file]
+2015-08-05 18:08:53.0650 Info Adding target Database Target[database]
+2015-08-05 18:08:53.0810 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 18:08:53.0950 Info Found 74 configuration items
+2015-08-05 18:20:53.2785 Info Adding target File Target[file]
+2015-08-05 18:20:53.2905 Info Adding target Database Target[database]
+2015-08-05 18:20:53.3085 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 18:20:53.3216 Info Found 74 configuration items
+2015-08-05 18:32:17.5582 Info Adding target File Target[file]
+2015-08-05 18:32:17.5743 Info Adding target Database Target[database]
+2015-08-05 18:32:17.5833 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 18:32:17.6063 Info Found 74 configuration items
+2015-08-05 18:50:45.2622 Info Adding target File Target[file]
+2015-08-05 18:50:45.2832 Info Adding target Database Target[database]
+2015-08-05 18:50:45.3012 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 18:50:45.3222 Info Found 74 configuration items
+2015-08-05 19:06:15.4703 Info Adding target File Target[file]
+2015-08-05 19:06:15.4703 Info Adding target Database Target[database]
+2015-08-05 19:06:15.4913 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:06:15.5063 Info Found 74 configuration items
+2015-08-05 19:08:02.3915 Info Adding target File Target[file]
+2015-08-05 19:08:02.4145 Info Adding target Database Target[database]
+2015-08-05 19:08:02.4325 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:08:02.4526 Info Found 74 configuration items
+2015-08-05 19:15:26.5475 Info Adding target File Target[file]
+2015-08-05 19:15:26.5475 Info Adding target Database Target[database]
+2015-08-05 19:15:26.5715 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:15:26.5845 Info Found 74 configuration items
+2015-08-05 19:21:02.3537 Info Adding target File Target[file]
+2015-08-05 19:21:02.3637 Info Adding target Database Target[database]
+2015-08-05 19:21:02.3797 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:21:02.3897 Info Found 74 configuration items
+2015-08-05 19:36:20.6746 Info Adding target File Target[file]
+2015-08-05 19:36:20.6746 Info Adding target Database Target[database]
+2015-08-05 19:36:20.7016 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:36:20.7106 Info Found 74 configuration items
+2015-08-05 19:37:52.2148 Info Adding target File Target[file]
+2015-08-05 19:37:52.2258 Info Adding target Database Target[database]
+2015-08-05 19:37:52.2428 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:37:52.2508 Info Found 74 configuration items
+2015-08-05 19:40:30.2536 Info Adding target File Target[file]
+2015-08-05 19:40:30.2646 Info Adding target Database Target[database]
+2015-08-05 19:40:30.2806 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:40:30.2806 Info Found 74 configuration items
+2015-08-05 19:52:06.5315 Info Adding target File Target[file]
+2015-08-05 19:52:06.6095 Info Adding target Database Target[database]
+2015-08-05 19:52:06.6095 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:52:06.6485 Info Found 74 configuration items
+2015-08-05 19:56:45.1210 Info Adding target File Target[file]
+2015-08-05 19:56:45.1450 Info Adding target Database Target[database]
+2015-08-05 19:56:45.1550 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 19:56:45.1550 Info Found 74 configuration items
+2015-08-05 20:03:14.7913 Info Adding target File Target[file]
+2015-08-05 20:03:14.8073 Info Adding target Database Target[database]
+2015-08-05 20:03:14.8193 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:03:14.8324 Info Found 74 configuration items
+2015-08-05 20:05:58.9786 Info Adding target File Target[file]
+2015-08-05 20:05:58.9896 Info Adding target Database Target[database]
+2015-08-05 20:05:58.9896 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:05:59.0166 Info Found 74 configuration items
+2015-08-05 20:07:58.9867 Info Adding target File Target[file]
+2015-08-05 20:07:58.9867 Info Adding target Database Target[database]
+2015-08-05 20:07:59.0037 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:07:59.0227 Info Found 74 configuration items
+2015-08-05 20:21:09.6141 Info Adding target File Target[file]
+2015-08-05 20:21:09.6271 Info Adding target Database Target[database]
+2015-08-05 20:21:09.6271 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:21:09.6481 Info Found 74 configuration items
+2015-08-05 20:25:52.1210 Info Adding target File Target[file]
+2015-08-05 20:25:52.1370 Info Adding target Database Target[database]
+2015-08-05 20:25:52.1480 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:25:52.1660 Info Found 74 configuration items
+2015-08-05 20:27:50.8029 Info Adding target File Target[file]
+2015-08-05 20:27:50.8129 Info Adding target Database Target[database]
+2015-08-05 20:27:50.8129 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:27:50.8330 Info Found 74 configuration items
+2015-08-05 20:47:28.6695 Info Adding target File Target[file]
+2015-08-05 20:47:28.6825 Info Adding target Database Target[database]
+2015-08-05 20:47:28.6965 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 20:47:28.7085 Info Found 74 configuration items
+2015-08-05 20:51:04.5414 Info Shutting down logging...
+2015-08-05 20:51:04.5414 Info Closing old configuration.
+2015-08-05 20:51:04.5594 Info Logger has been shut down.
+2015-08-05 21:09:22.3918 Info Adding target File Target[file]
+2015-08-05 21:09:22.3918 Info Adding target Database Target[database]
+2015-08-05 21:09:22.4178 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:09:22.4308 Info Found 74 configuration items
+2015-08-05 21:13:18.1406 Info Adding target File Target[file]
+2015-08-05 21:13:18.1576 Info Adding target Database Target[database]
+2015-08-05 21:13:18.1576 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:13:18.1786 Info Found 74 configuration items
+2015-08-05 21:14:54.9482 Info Adding target File Target[file]
+2015-08-05 21:14:54.9572 Info Adding target Database Target[database]
+2015-08-05 21:14:54.9572 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:14:54.9732 Info Found 74 configuration items
+2015-08-05 21:15:58.8438 Info Adding target File Target[file]
+2015-08-05 21:15:58.8438 Info Adding target Database Target[database]
+2015-08-05 21:15:58.8668 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:15:58.8758 Info Found 74 configuration items
+2015-08-05 21:20:42.7753 Info Adding target File Target[file]
+2015-08-05 21:20:42.7893 Info Adding target Database Target[database]
+2015-08-05 21:20:42.7983 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:20:42.7983 Info Found 74 configuration items
+2015-08-05 21:42:48.4523 Info Shutting down logging...
+2015-08-05 21:42:48.4523 Info Closing old configuration.
+2015-08-05 21:42:48.4744 Info Logger has been shut down.
+2015-08-05 21:42:53.5098 Info Adding target File Target[file]
+2015-08-05 21:42:53.5218 Info Adding target Database Target[database]
+2015-08-05 21:42:53.5399 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 21:42:53.5529 Info Found 74 configuration items
+2015-08-05 22:03:05.3533 Info Shutting down logging...
+2015-08-05 22:03:05.3594 Info Closing old configuration.
+2015-08-05 22:03:05.3824 Info Logger has been shut down.
+2015-08-05 22:03:13.1872 Info Adding target File Target[file]
+2015-08-05 22:03:13.1872 Info Adding target Database Target[database]
+2015-08-05 22:03:13.2083 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 22:03:13.2083 Info Found 74 configuration items
+2015-08-05 22:28:24.6018 Info Adding target File Target[file]
+2015-08-05 22:28:24.6248 Info Adding target Database Target[database]
+2015-08-05 22:28:24.6248 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 22:28:24.6419 Info Found 74 configuration items
+2015-08-05 23:09:37.2335 Info Adding target File Target[file]
+2015-08-05 23:09:37.2335 Info Adding target Database Target[database]
+2015-08-05 23:09:37.2575 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 23:09:37.2745 Info Found 74 configuration items
+2015-08-05 23:24:03.5805 Info Adding target File Target[file]
+2015-08-05 23:24:03.5965 Info Adding target Database Target[database]
+2015-08-05 23:24:03.5965 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 23:24:03.6225 Info Found 74 configuration items
+2015-08-05 23:30:03.6712 Info Adding target File Target[file]
+2015-08-05 23:30:03.6922 Info Adding target Database Target[database]
+2015-08-05 23:30:03.7202 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-05 23:30:03.7202 Info Found 74 configuration items
+2015-08-06 00:14:00.1151 Info Adding target File Target[file]
+2015-08-06 00:14:00.1361 Info Adding target Database Target[database]
+2015-08-06 00:14:00.1471 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:14:00.1621 Info Found 74 configuration items
+2015-08-06 00:15:20.1000 Info Adding target File Target[file]
+2015-08-06 00:15:20.1140 Info Adding target Database Target[database]
+2015-08-06 00:15:20.1320 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:15:20.1450 Info Found 74 configuration items
+2015-08-06 00:19:25.4317 Info Adding target File Target[file]
+2015-08-06 00:19:25.4487 Info Adding target Database Target[database]
+2015-08-06 00:19:25.4607 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:19:25.4687 Info Found 74 configuration items
+2015-08-06 00:32:35.4303 Info Adding target File Target[file]
+2015-08-06 00:32:35.4543 Info Adding target Database Target[database]
+2015-08-06 00:32:35.4543 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:32:35.4833 Info Found 74 configuration items
+2015-08-06 00:42:55.3321 Info Adding target File Target[file]
+2015-08-06 00:42:55.3511 Info Adding target Database Target[database]
+2015-08-06 00:42:55.3611 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:42:55.3741 Info Found 74 configuration items
+2015-08-06 00:44:48.9793 Info Adding target File Target[file]
+2015-08-06 00:44:48.9963 Info Adding target Database Target[database]
+2015-08-06 00:44:49.0094 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:44:49.0254 Info Found 74 configuration items
+2015-08-06 00:50:32.5409 Info Adding target File Target[file]
+2015-08-06 00:50:32.6030 Info Adding target Database Target[database]
+2015-08-06 00:50:32.6260 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:50:32.6430 Info Found 74 configuration items
+2015-08-06 00:58:40.1215 Info Adding target File Target[file]
+2015-08-06 00:58:40.1405 Info Adding target Database Target[database]
+2015-08-06 00:58:40.1566 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 00:58:40.1756 Info Found 74 configuration items
+2015-08-06 01:03:37.0737 Info Adding target File Target[file]
+2015-08-06 01:03:37.0948 Info Adding target Database Target[database]
+2015-08-06 01:03:37.0948 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 01:03:37.1218 Info Found 74 configuration items
+2015-08-06 01:11:09.0804 Info Adding target File Target[file]
+2015-08-06 01:11:09.0804 Info Adding target Database Target[database]
+2015-08-06 01:11:09.2335 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 01:11:09.2335 Info Found 74 configuration items
+2015-08-06 01:18:38.0847 Info Adding target File Target[file]
+2015-08-06 01:18:38.0957 Info Adding target Database Target[database]
+2015-08-06 01:18:38.1157 Info Configured from an XML element in C:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\NLog.config...
+2015-08-06 01:18:38.1277 Info Found 74 configuration items

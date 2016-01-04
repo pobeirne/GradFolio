@@ -1,0 +1,237 @@
+﻿@model GradFolio.Core.DTO.GradFolioDto
+
+
+@{
+    ViewBag.Title = "My GradFolio Portfolio" +" "+ DateTime.Now.Year;
+    Layout = "~/Views/Shared/_LayoutPortFolio.cshtml";
+}
+
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Start Bootstrap</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav pull-right">
+                <li>
+                    @Html.ActionLink("View CV", "ViewCv", "CV", new { id = @Model.CurriculumVitae.Id }, new { @class = "", target = "_blank" })
+                </li>
+            </ul>
+
+            
+            <ul class="nav navbar-nav pull-left">
+                <li>
+                    <a href="#about">About</a>
+                </li>
+                <li>
+                    <a href="#education">Education</a>
+                </li>
+                <li>
+                    <a href="#work">Work</a>
+                </li>
+                <li>
+                    <a href="#skill">Skills</a>
+                </li>
+                <li>
+                    <a href="#award">Awards</a>
+                </li>
+                <li>
+                    <a href="#interest">Interests</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Full Width Image Header -->
+<header class="header-image">
+    <div class="headline">
+        <div class="container">
+            <h1>@Model.Profile.FirstName @Model.Profile.LastName</h1>
+            <h2>@ViewBag.Title</h2>
+        </div>
+    </div>
+</header>
+
+
+
+<!-- Page Content -->
+<div class="container">
+    <hr class="featurette-divider">
+    <!-- First Featurette -->
+    <div class="featurette" id="about">
+        <img class="featurette-image img-circle img-responsive pull-right" src="@Model.Profile.ImageUrl" alt="">
+        <h2 class="featurette-heading">
+            @Model.Profile.Title
+
+            <span class="text-muted">Available: 
+            @if (Model.Profile.AvailableFromDate != null)
+            {
+                <span>Yes</span>
+            }
+            else
+            { <span>No</span>}
+            </span>
+        </h2>
+        <p class="lead">@Model.Profile.Summary</p>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- Second Featurette -->
+    <div class="featurette" id="education">
+        <img class="featurette-image img-circle img-responsive pull-left" src="http://vijaygoel.net/images/pages/education.jpg" alt="">
+        <h2 class="featurette-heading">
+            Education
+            <span class="text-muted">Past & Current.</span>
+        </h2>
+        <p class="lead">
+            @foreach (var edu in Model.Courses)
+            {
+                @edu.Title<br />
+                <span class="text-muted">@edu.College@if (edu.EndDate != null)
+                                                      {
+                                                          <span>Completed: </span>
+                                                          @edu.EndDate.Value.Year
+                                                      }
+                                                      else
+                                                      {
+                                                          <span>Started: </span>
+                                                          @edu.StartDate.Year
+                                                      }</span>
+                <br/><br />
+            }
+        </p>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- Third Featurette -->
+    <div class="featurette" id="work">
+        <img class="featurette-image img-circle img-responsive pull-right" src="http://www.few.vu.nl/~bbg360/images/Work.png" alt="">
+        <h2 class="featurette-heading">
+            Experience
+            <span class="text-muted">Past & Current.</span>
+        </h2>
+        <p class="lead">
+            @foreach (var work in Model.Experiences)
+            {
+                <span>
+                    @work.Company   @if (work.EndDate != null)
+                    {
+                        <span>From: @work.StartDate.Year To: @work.EndDate.Value.Year</span>
+                    }
+                    else
+                    {
+                        <span>From: @work.StartDate.Year To: present </span>
+                    }
+                </span>
+                <br />
+                <span class="text-muted">@work.Title</span>
+
+                <br /><br />
+            }
+        </p>
+    </div>
+
+
+
+    <hr class="featurette-divider">
+
+
+
+
+
+
+    <!-- Third Featurette -->
+    <div class="featurette" id="skill">
+        <img class="featurette-image img-circle img-responsive pull-left" src="http://www.onlineuniversities.com/wp-content/uploads/21st-century-skills2.jpg" alt="">
+        <h2 class="featurette-heading">
+            Skills
+            <span class="text-muted">Will Seal the Deal.</span>
+        </h2>
+        <p class="lead">
+            @foreach (var skill in Model.Skills)
+            {
+                <span>
+                    @skill.Title Level: @skill.Level
+                </span>
+                <br />
+                <span class="text-muted">@skill.Summary</span>
+
+                <br /><br />
+            }
+        </p>
+    </div>
+
+    <hr class="featurette-divider">
+
+
+
+
+
+    <!-- Third Featurette -->
+    <div class="featurette" id="award">
+        <img class="featurette-image img-circle img-responsive pull-right" src="http://www.clker.com/cliparts/l/y/p/o/Y/Z/certificate-hi.png" alt="">
+        <h2 class="featurette-heading">
+            Awards & Certifications
+        </h2>
+        <p class="lead">
+            @foreach (var award in Model.Awards)
+            {
+                <span>
+                    @award.Title Level: @award.Level
+                </span>
+                <br />
+                <span class="text-muted">Issued By: @award.IssuedBy</span>
+
+                <br /><br />
+            }
+        </p>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- Third Featurette -->
+    <div class="featurette" id="interest">
+        <img class="featurette-image img-circle img-responsive pull-left" src="https://www.hillscourt.co.uk/wp-content/uploads/2015/02/hobbies.png" alt="">
+        <h2 class="featurette-heading">
+            Interests & Hobbies
+        </h2>
+        <p class="lead">
+            @foreach (var interest in Model.Interests)
+            {
+                <span>
+                    @interest.Title
+                </span>
+                <span class="text-muted"> @interest.Summary</span>
+
+                <br /><br />
+            }
+        </p>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- Footer -->
+    <footer>
+        <div class="row">
+            <div class="col-lg-12">
+                <p>Copyright &copy; ViewBag.Title</p>
+            </div>
+        </div>
+    </footer>
+
+</div>
+<!-- /.container -->

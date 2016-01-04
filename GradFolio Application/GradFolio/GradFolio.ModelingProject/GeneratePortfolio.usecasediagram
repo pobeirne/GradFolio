@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="1b402af7-a720-4c6f-bed3-d6d603784719" name="GenerateCV" linkedPackageId="e40592e3-8678-4498-beb7-fb9574f546e8" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="73ef392f-1d56-40c9-b037-314803afbe00">
+      <elementDefinition Id="ff388f79-dcf0-4b59-973e-ac6dbfe306b9" />
+      <body>Input</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="3863eab4-4933-4f2e-8f69-9cbdce77878b">
+      <profileInstance Id="8e60458f-6a63-4a97-9338-19fb3d27d498" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="9516097d-8bbf-4ee2-b734-0adfce80f9d0">
+      <profileInstance Id="783c06bd-b4be-4ea3-9cb7-d6d90ec9531f" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="6eec237c-cb98-4e2a-ba1d-dce23569148b" name="User" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="671b5559-b27a-443e-b0e1-e3cd7999afb1" />
+        <suppliersInternal>
+          <dependency Id="99e126e3-0ca5-4ef0-b302-6022416a7ecc">
+            <useCaseMoniker Id="0b6be156-768c-4135-8fbe-e7525b17b34a" LastKnownName="Generat Portfolio" />
+            <elementDefinition Id="e8333e20-44e9-4449-adc6-ad6fdc7a4198" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="0b6be156-768c-4135-8fbe-e7525b17b34a" name="Generat Portfolio" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="7b560739-da06-4d69-b6e6-6ee6aaf6d80d" />
+        <extendedCases>
+          <extend Id="db40434f-eaf5-4713-8c95-da599c08cd76">
+            <useCaseMoniker Id="a9717cb4-c4db-4192-a714-62893b20d4c1" LastKnownName="Manage Portfolio" />
+            <elementDefinition Id="ac2ceedb-3a1a-4cc3-8a0c-b43b995b06a0" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include Id="421defb3-a1fe-419c-a256-95403c6fecf5">
+            <useCaseMoniker Id="85bb05d1-af05-4763-a8ae-e9456185566e" LastKnownName="Login" />
+            <elementDefinition Id="e6d208cd-e574-4d72-9e8e-f235d06b8f19" />
+          </include>
+          <include Id="66110990-ec14-4a30-b80c-11d72e306d11">
+            <useCaseMoniker Id="709de2f3-b0b1-4df7-9332-f01db46dc303" LastKnownName="Manage Information" />
+            <elementDefinition Id="a9f7068a-eeb9-42c9-84e2-6253dafd3880" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="85bb05d1-af05-4763-a8ae-e9456185566e" name="Login" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="141fc963-a8e2-417f-8e08-c08953bab162" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="709de2f3-b0b1-4df7-9332-f01db46dc303" name="Manage Information" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="29dcefa2-12c9-4108-aa78-fa70805f3dfd" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="a9717cb4-c4db-4192-a714-62893b20d4c1" name="Manage Portfolio" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="50265f50-46da-45ab-9890-af30a2ff378f" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="e40592e3-8678-4498-beb7-fb9574f546e8" name="GradFolio.ModelingProject">
+    <elementDefinition Id="8da4f1e8-b4d0-4cca-ae6b-0e880d4eb02d" />
+  </package>
+</useCaseModelRoot>

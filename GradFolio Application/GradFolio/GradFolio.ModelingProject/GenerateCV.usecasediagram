@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="e1f4569b-b67b-4567-827d-a33fe2a986a5" name="GenerateCVUseCaseDiagram" linkedPackageId="6783e79d-d984-44fe-8112-b5420c9f5f5d" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="3f8e3df8-294e-4dd0-bb78-2a67eb219185">
+      <elementDefinition Id="5eb22116-7de5-4ff6-a2dc-37d4688cd750" />
+      <body>Input</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="b69972f1-c5be-4d5f-8891-918650c0a8d1">
+      <profileInstance Id="8c019a40-377f-421f-82a1-1c292264eb35" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="cf220a96-b382-4954-a520-0243579b2b4a">
+      <profileInstance Id="255eef60-dcf4-46c6-91f4-424e50bb1d54" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="fadfd45c-0489-42b6-9eea-60c3c185f2d6" name="User" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="f02a9984-af86-4a80-982d-009b557afbc8" />
+        <suppliersInternal>
+          <dependency Id="8588dc05-3dde-47a3-bb2f-fb58e6b7cbc7">
+            <useCaseMoniker Id="8ed0bb7a-4e80-4e99-bf97-fd351e2814ac" LastKnownName="Generat CV" />
+            <elementDefinition Id="1924013f-5ed9-42c0-abac-98599865dae7" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="8ed0bb7a-4e80-4e99-bf97-fd351e2814ac" name="Generat CV" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="60cc03ca-b825-447e-ae44-091631007f46" />
+        <extendedCases>
+          <extend Id="976ac9cf-5f2c-40ab-8e5c-62654ba14f7d">
+            <useCaseMoniker Id="6d835770-18d8-46b0-a998-0f26b538d543" LastKnownName="Manage CV" />
+            <elementDefinition Id="6f74d29a-2cba-40b1-9039-71865bd95908" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include Id="98980d2a-4bbb-4c76-879b-a48984b9a2d5">
+            <useCaseMoniker Id="d77a4b88-57f6-4e24-9fe6-585fd60055ca" LastKnownName="Login" />
+            <elementDefinition Id="fa8327b3-5849-4ef7-b0bd-66d9c25921da" />
+          </include>
+          <include Id="2f7dcff9-e2f2-4bbb-b75a-2b70f00a9bc9">
+            <useCaseMoniker Id="0a1c9aee-271e-456c-b43d-eb8fb1b807d5" LastKnownName="Manage Information" />
+            <elementDefinition Id="29e20619-13c9-47d8-939b-9a5d5b394ce3" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="d77a4b88-57f6-4e24-9fe6-585fd60055ca" name="Login" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="f6a879f8-a1cb-4cf3-aeb3-045d0227cfb4" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="0a1c9aee-271e-456c-b43d-eb8fb1b807d5" name="Manage Information" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="c725ce8a-da56-4bf9-82d3-42ad51d95b91" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="6d835770-18d8-46b0-a998-0f26b538d543" name="Manage CV" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="bbfc5d61-2bd1-487e-bda9-ef6c202f060a" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="6783e79d-d984-44fe-8112-b5420c9f5f5d" name="GradFolio.ModelingProject">
+    <elementDefinition Id="8da4f1e8-b4d0-4cca-ae6b-0e880d4eb02d" />
+  </package>
+</useCaseModelRoot>

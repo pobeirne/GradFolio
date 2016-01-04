@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm10="http://schemas.microsoft.com/dsltools/UseCaseModel"
+  dslVersion="1.0.0.0"
+  Id="8da4f1e8-b4d0-4cca-ae6b-0e880d4eb02d"
+  name="GradFolio.ModelingProject" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="e3826f84-9eb1-4059-82a5-9b91d4002e0b">
+      <body>Create</body>
+    </comment>
+    <comment
+      Id="95f0eca2-8219-473d-92f2-814cf3f95a7b">
+      <body>Login</body>
+    </comment>
+    <comment
+      Id="63a5dce8-232a-4068-9768-eccbc6d59d8f">
+      <body>Input</body>
+    </comment>
+    <comment
+      Id="5eb22116-7de5-4ff6-a2dc-37d4688cd750">
+      <body>Input</body>
+    </comment>
+    <comment
+      Id="c48be948-c06d-459f-b921-45a4f97af741">
+      <body>Input</body>
+    </comment>
+    <comment
+      Id="ff388f79-dcf0-4b59-973e-ac6dbfe306b9">
+      <body>Input</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="8791ff47-cfcd-48f7-8016-670d30add3c8"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="ed54348c-60b0-4e56-8b1e-4cc6a69bab4b">
+            <useCaseMoniker
+              Id="eeb8cb49-eef5-44e1-a087-a4fefd0c6664"
+              LastKnownName="Register"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+          <dependency
+            Id="2167314a-0f5d-4337-b2eb-eaa121292074">
+            <useCaseMoniker
+              Id="1a88a2a7-d86a-4bb5-a12a-e22def484087"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+          <dependency
+            Id="8824bf42-83b5-483c-aed0-408c72322aa0">
+            <useCaseMoniker
+              Id="c5d95b74-49a8-4ab2-bf1b-e1dd9482016c"
+              LastKnownName="Manage Account"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+          <dependency
+            Id="41162655-8af9-452b-a2ff-0e5a563010a1">
+            <useCaseMoniker
+              Id="fa91f785-e862-488f-a04b-edeefabec80e"
+              LastKnownName="Manage  Information"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+          <dependency
+            Id="dc5bd31b-9e19-4bd9-aa94-a54ab414c3a0">
+            <useCaseMoniker
+              Id="6cdce724-5218-49d1-827f-0042c0a3e54a"
+              LastKnownName="Generate CV"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+          <dependency
+            Id="b4168a87-4d2b-4f5d-a9bb-6f3b760ee637">
+            <useCaseMoniker
+              Id="97649701-4f39-4180-9f16-cc5c79e86992"
+              LastKnownName="Generate portfolio"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="eeb8cb49-eef5-44e1-a087-a4fefd0c6664"
+        name="Register"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="1a88a2a7-d86a-4bb5-a12a-e22def484087"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="c5d95b74-49a8-4ab2-bf1b-e1dd9482016c"
+        name="Manage Account"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="fa91f785-e862-488f-a04b-edeefabec80e"
+        name="Manage  Information"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="34d6fbe8-d5d6-4cb0-ae2c-c60badc150f7"
+        name="Manage Education"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="3a698b71-4b1b-4d8c-8643-2219170ccb51"
+        name="Manage  Experience"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="e175b88d-de23-4cf9-8c0a-04b56fa9bf84"
+        name="Manage  Education1"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="6cdce724-5218-49d1-827f-0042c0a3e54a"
+        name="Generate CV"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="ae154c68-8116-4482-9561-8e253d702ac0">
+            <useCaseMoniker
+              Id="7d45f9a4-c7c1-4f12-9cde-8b4413c9d105"
+              LastKnownName="Manage CV"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="97649701-4f39-4180-9f16-cc5c79e86992"
+        name="Generate portfolio"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="db2463d6-897e-4b35-b257-b74c9fc72976">
+            <useCaseMoniker
+              Id="6248a968-d8ad-42d3-8970-7a728616f6ac"
+              LastKnownName="Manage Portfolio"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="b103432c-d10c-4781-8f35-ace71074c744"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="5b996200-6b20-4c49-90eb-9dda276892bc">
+            <useCaseMoniker
+              Id="7d81de78-3737-4396-b049-149d042a100e"
+              LastKnownName="Register"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="7d81de78-3737-4396-b049-149d042a100e"
+        name="Register"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="697037dc-9a60-493c-81f3-89bdf8d0934f"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="6c49df55-6d2d-4bc2-a723-908c66a891fa">
+            <useCaseMoniker
+              Id="1dd11851-e1cc-464d-a9fa-d4d8211aac38"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="1dd11851-e1cc-464d-a9fa-d4d8211aac38"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="a39d6b22-d641-4215-8386-96eea9185ad4">
+            <useCaseMoniker
+              Id="fcaafcc0-1f8d-4ed2-b629-bae4ce205095"
+              LastKnownName="Register"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="fcaafcc0-1f8d-4ed2-b629-bae4ce205095"
+        name="Register"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="f927a7d2-6eb6-4fbf-9266-5d753a4274a8"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="e7279284-a98d-47bf-94d7-5715ac13f916">
+            <useCaseMoniker
+              Id="694679f6-2e40-4263-809c-4ff7039bfbcf"
+              LastKnownName="Manage Account"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="694679f6-2e40-4263-809c-4ff7039bfbcf"
+        name="Manage Account"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="8ac090e2-9e53-4506-baa3-6383197b8c3c">
+            <useCaseMoniker
+              Id="91af403b-2f1f-4b04-b468-a63fe72b0d9e"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="91af403b-2f1f-4b04-b468-a63fe72b0d9e"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="f02a9984-af86-4a80-982d-009b557afbc8"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="1924013f-5ed9-42c0-abac-98599865dae7">
+            <useCaseMoniker
+              Id="60cc03ca-b825-447e-ae44-091631007f46"
+              LastKnownName="Generat CV"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="60cc03ca-b825-447e-ae44-091631007f46"
+        name="Generat CV"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="6f74d29a-2cba-40b1-9039-71865bd95908">
+            <useCaseMoniker
+              Id="bbfc5d61-2bd1-487e-bda9-ef6c202f060a"
+              LastKnownName="Manage CV"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include
+            Id="fa8327b3-5849-4ef7-b0bd-66d9c25921da">
+            <useCaseMoniker
+              Id="f6a879f8-a1cb-4cf3-aeb3-045d0227cfb4"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+          <include
+            Id="29e20619-13c9-47d8-939b-9a5d5b394ce3">
+            <useCaseMoniker
+              Id="c725ce8a-da56-4bf9-82d3-42ad51d95b91"
+              LastKnownName="Manage Information"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="f6a879f8-a1cb-4cf3-aeb3-045d0227cfb4"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="c725ce8a-da56-4bf9-82d3-42ad51d95b91"
+        name="Manage Information"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="fe026956-6635-4ccf-8245-4b6e828f72ed"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="f4871f64-7122-4cd8-9ee0-d69f3b9cf666">
+            <useCaseMoniker
+              Id="5592a3cf-b9df-4129-b800-76f09ab3bdc8"
+              LastKnownName="Manage Information"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="5592a3cf-b9df-4129-b800-76f09ab3bdc8"
+        name="Manage Information"
+        isAbstract="false"
+        isLeaf="false">
+        <additions>
+          <include
+            Id="847b7360-2651-433f-b398-6113fa073c18">
+            <useCaseMoniker
+              Id="f036cbb8-f2d7-46aa-a6c8-6857685dfe47"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="f036cbb8-f2d7-46aa-a6c8-6857685dfe47"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="bbfc5d61-2bd1-487e-bda9-ef6c202f060a"
+        name="Manage CV"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <actor
+        Id="671b5559-b27a-443e-b0e1-e3cd7999afb1"
+        name="User"
+        isAbstract="false"
+        isLeaf="false">
+        <suppliersInternal>
+          <dependency
+            Id="e8333e20-44e9-4449-adc6-ad6fdc7a4198">
+            <useCaseMoniker
+              Id="7b560739-da06-4d69-b6e6-6ee6aaf6d80d"
+              LastKnownName="Generat Portfolio"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="7b560739-da06-4d69-b6e6-6ee6aaf6d80d"
+        name="Generat Portfolio"
+        isAbstract="false"
+        isLeaf="false">
+        <extendedCases>
+          <extend
+            Id="ac2ceedb-3a1a-4cc3-8a0c-b43b995b06a0">
+            <useCaseMoniker
+              Id="50265f50-46da-45ab-9890-af30a2ff378f"
+              LastKnownName="Manage Portfolio"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </extend>
+        </extendedCases>
+        <additions>
+          <include
+            Id="e6d208cd-e574-4d72-9e8e-f235d06b8f19">
+            <useCaseMoniker
+              Id="141fc963-a8e2-417f-8e08-c08953bab162"
+              LastKnownName="Login"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+          <include
+            Id="a9f7068a-eeb9-42c9-84e2-6253dafd3880">
+            <useCaseMoniker
+              Id="29dcefa2-12c9-4108-aa78-fa70805f3dfd"
+              LastKnownName="Manage Information"
+              LastKnownLocation="GradFolio.ModelingProject.uml" />
+          </include>
+        </additions>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="141fc963-a8e2-417f-8e08-c08953bab162"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="29dcefa2-12c9-4108-aa78-fa70805f3dfd"
+        name="Manage Information"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="50265f50-46da-45ab-9890-af30a2ff378f"
+        name="Manage Portfolio"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="6248a968-d8ad-42d3-8970-7a728616f6ac"
+        name="Manage Portfolio"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="7d45f9a4-c7c1-4f12-9cde-8b4413c9d105"
+        name="Manage CV"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

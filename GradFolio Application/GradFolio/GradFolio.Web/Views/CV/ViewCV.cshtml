@@ -1,0 +1,249 @@
+﻿@model GradFolio.Core.DTO.CvTemplateDto
+@{
+    ViewBag.Title = "ViewCV";
+    Layout = "~/Views/Shared/_PdfLayout.cshtml";
+}
+
+<table style="width: 100%;">
+
+    @*Title*@
+    <tr class="border_bottom">
+        <td colspan="2">
+            <h1>@Model.Profile.FirstName.ToUpper() @Model.Profile.LastName.ToUpper() </h1>
+        </td>
+        <td style="text-align: right;">
+
+            @if (@Model.Profile.IsAvailable)
+            {
+                <h3>
+                    AVAILABILITY: @if (Model.Profile.AvailableFromDate != null)
+                                  {
+                                      @Model.Profile.AvailableFromDate.Value.ToShortDateString()
+                                  }
+
+                </h3>
+            }
+        </td>
+    </tr>
+
+    @*Contact Info*@
+    <tr>
+        <td colspan="3" style="text-align: center;">
+            <br/>
+            <span>PORTFOLIO: @Model.Profile.PortfolioUrl</span><br/>
+            <span>LINKEDIN: @Model.Profile.LinkedInUrl </span>
+            <br />
+            <span>Mobile: @Model.Profile.Mobile</span><br/>
+            <span>EMAIL: @Model.Profile.Email</span><br/>
+            <span>Located:@Model.Profile.Location</span><br/>
+        </td>
+    </tr>
+
+    @*Profile*@
+    <tr>
+        <td colspan="3">PROFILE<br/><hr/></td>
+    </tr>
+    <tr>
+        <td colspan="3" style="text-align: justify;">
+            @Model.Profile.Summary
+        </td>
+    </tr>
+
+
+    @*Education*@
+    <tr>
+        <td colspan="3"><br/>EDUCATION<br/><hr/></td>
+    </tr>
+    @foreach (var course in Model.Courses)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @course.StartDate.Year - @if (course.EndDate != null)
+                                         {
+                                             @course.EndDate.Value.Year
+                                         }
+                @if (course.IsCurrent)
+                {
+                    <span>Current</span>
+                }</td>
+            <td style="width: 40%">@course.College</td>
+            <td style="width: 40%">@course.Title</td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+        <tr>
+            <td style="width: 20%;">&nbsp;</td>
+            <td colspan="2" style="width: 80%; text-align: justify;">
+                Subjects:@course.Summary
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    @*WORK EXPERIENCE 1*@
+    <tr>
+        <td colspan="3">WORK EXPERIENCE<br/><hr/></td>
+    </tr>
+
+    @foreach (var job in Model.Experiences)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @job.StartDate.Year - @if (job.EndDate != null)
+                                      {
+                                          @job.EndDate.Value.Year
+                                      }
+                @if (job.IsCurrent)
+                {
+                    <span>Current</span>
+                }</td>
+            <td >@job.Company</td>
+            <td >@job.Title</td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+        <tr>
+            <td style="width: 20%;">&nbsp;</td>
+            <td colspan="2" style="width: 80%; text-align: justify;">Key Responsibilities: @job.Summary</td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    @*Skills*@
+    <tr>
+        <td colspan="3">SKILLS<br/><hr/></td>
+    </tr>
+
+    @foreach (var skill in Model.Skills)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @skill.Title</td>
+            <td colspan="2">
+                Level:(@skill.Level.ToUpper()) Summary:@skill.Summary
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    @*PROJECTS*@
+    <tr>
+        <td colspan="3">PROJECTS<br/><hr/></td>
+    </tr>
+
+    @foreach (var project in Model.Projects)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @project.Title
+            </td>
+            <td colspan="2">
+                Summary:@project.Summary
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    @*ACHIEVEMENTS & INTERESTS*@
+    <tr>
+        <td colspan="3">ACHIEVEMENTS<br/><hr/></td>
+    </tr>
+
+    @foreach (var award in Model.Awards)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @award.IssuedDate.Year
+            </td>
+            <td colspan="2">
+                (@award.Title @award.Level) Issued By:@award.IssuedBy
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    @*INTERESTS*@
+    <tr>
+        <td colspan="3">INTERESTS<br/><hr/></td>
+    </tr>
+
+    @foreach (var interest in Model.Interests)
+    {
+        <tr>
+            <td style="width: 20%;">
+                @interest.Title
+            </td>
+            <td colspan="2" style="text-align: justify;">
+                @interest.Summary
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">&nbsp;<br/></td>
+        </tr>
+    }
+
+    <tr>
+        <td colspan="3"><br/><br/>REFERENCES & DEATAILED RESULTS AVAILABLE UPON REQUEST<br/><hr/></td>
+    </tr>
+</table>
+
+
+@section css
+{
+    <style type="text/css">
+        h1 {
+            font-family: Cambria, Georgia, serif;
+            font-size: 24px;
+            font-style: normal;
+            -webkit-font-variant: normal;
+            -moz-font-variant: normal;
+            -ms-font-variant: normal;
+            -o-font-variant: normal;
+            font-variant: normal;
+            font-weight: bold;
+            line-height: 20px;
+        }
+
+        h3 {
+            font-family: Cambria, Georgia, serif;
+            font-size: 16px;
+            font-style: normal;
+            -webkit-font-variant: normal;
+            -moz-font-variant: normal;
+            -ms-font-variant: normal;
+            -o-font-variant: normal;
+            font-variant: normal;
+            font-weight: bold;
+            line-height: 18px;
+        }
+
+        p {
+            font-family: Cambria;
+            font-size: 12px;
+            text-align: justify;
+            -webkit-text-justify: inter-word;
+            -moz-text-justify: inter-word;
+            -o-text-justify: inter-word;
+            text-justify: inter-word;
+            line-height: 20px;
+        }
+
+
+        tr.border_bottom td { border-bottom: 1pt solid black; }
+        
+
+    </style>
+
+}

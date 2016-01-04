@@ -1,0 +1,62 @@
+﻿@model GradFolio.Core.ViewModels.AwardViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="modal-header" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true" style="color: #ffffff">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">Edit Award</h4>
+    </div>
+    <div class="modal-body">
+
+
+        <div class="form-horizontal">
+
+            @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+            @Html.HiddenFor(model => model.Id)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Title, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.EditorFor(model => model.Title, new {htmlAttributes = new {@class = "form-control"}})
+                    @Html.ValidationMessageFor(model => model.Title, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Level, new { @class = "control-label col-lg-4 col-md-4 col-xs-12" })
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.EditorFor(model => model.Level, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Level, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.IssuedBy, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.EditorFor(model => model.IssuedBy, new {htmlAttributes = new {@class = "form-control"}})
+                    @Html.ValidationMessageFor(model => model.IssuedBy, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.IssuedDate, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.EditorFor(model => model.IssuedDate, new {htmlAttributes = new {@class = "form-control"}})
+                    @Html.ValidationMessageFor(model => model.IssuedDate, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="modal-footer" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+        <button id="btn-content-edit-submit" type="button" class="btn btn-primary">Save changes</button>
+    </div>
+}

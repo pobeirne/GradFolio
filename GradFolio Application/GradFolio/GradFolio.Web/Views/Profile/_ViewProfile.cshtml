@@ -1,0 +1,85 @@
+﻿@model GradFolio.Core.ViewModels.ProfileViewModel
+
+<div class="row">
+    <div class="col-lg-9 col-md-9 col-xs-12">
+        <div class="thumbnail">
+            <ul class="list-group" style="margin-bottom: 0">
+
+                <li class="list-group-item">
+                    <span class="glyphicon glyphicon-user" aria-hidden="true"></span><span> Name: @Model.FirstName  @Model.LastName</span>
+                    <span class="pull-right"> Profession: @Model.Title </span>
+                </li>
+                <li class="list-group-item">
+                    <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Located: @Model.Location </span>
+                    <span class="pull-right"> Join Date: @Model.JoinDate.ToShortDateString() </span>
+                </li>
+                <li class="list-group-item">
+                    <p class="text-justify">
+                        <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Summary:  </span><br/><br/>
+                        @Model.Summary
+                    </p>
+                </li>
+                <li class="list-group-item">
+                    <span class=" glyphicon glyphicon-education" aria-hidden="true"></span><span> Availability: @Model.IsAvailable </span>
+                    <span class="pull-right">Availabile From: 
+                        @if (Model.AvailableFromDate.HasValue)
+                        {
+                            @Model.AvailableFromDate.Value.ToShortDateString()
+                        }
+                    </span>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-lg-3 col-md-3 col-xs-12">
+        <div class="thumbnail">
+            <img class="img-responsive" src="@Model.ImageUrl" alt="">
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12 col-md-12 col-xs-12">
+        <h3 class="page-header">
+            Contact Info
+        </h3>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6 col-md-6 col-xs-12">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <span class="glyphicon glyphicon-user" aria-hidden="true"></span><span> Email: @Model.Email  </span>
+            </li>
+            <li class="list-group-item">
+                <span class="glyphicon glyphicon-user" aria-hidden="true"></span><span> Phone: @Model.Phone  </span>
+            </li>
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-triangle-right" aria-hidden="true"></span><span> Mobile: @Model.Mobile</span>
+            </li>
+        </ul>
+    </div>
+    <div class="col-lg-6 col-md-6 col-xs-12">
+        <ul class="list-group" style="margin-bottom: 0">
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-triangle-right" aria-hidden="true"></span><span>
+                    <a class="" href="@Model.LinkedInUrl" target="_blank">LinkedIn</a>
+                </span>
+            </li>
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-triangle-right" aria-hidden="true"></span><span> Portfolio: 
+                @if (@Model.PortfolioUrl!=null)
+                {
+                    @Html.ActionLink("PortFolioLink", "Index", "GradFolio",
+                                         new { Id = @Model.PortfolioUrl }, new { @class = "", target = "_blank" })
+                }
+               
+                </span>
+            </li>
+            <li class="list-group-item">
+                <span class=" glyphicon glyphicon-triangle-right" aria-hidden="true"></span><span> NotImplemented: </span>
+            </li>
+        </ul>
+    </div>
+</div>

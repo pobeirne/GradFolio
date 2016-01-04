@@ -1,0 +1,706 @@
+             Info  2015-08-03 02:02:19.7185  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 02:02:19.8026  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 02:02:19.8766  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.ExperienceController.ViewExperienceList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\ExperienceController.cs:line 32
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 02:08:07.6747  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 18
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 02:08:07.7388  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 18
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 02:08:07.7818  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.ExperienceController.ViewExperienceList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\ExperienceController.cs:line 32
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 18
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 10:58:37.2416  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 10:58:37.2936  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 10:58:37.3577  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.CourseController.ViewCourseList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\CourseController.cs:line 32
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 10:59:04.0247  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 10:59:04.0578  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 10:59:09.6990  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.CourseController.ViewCourseList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\CourseController.cs:line 32
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:03:13.9815  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:03:14.0856  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 11:03:14.1427  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.ExperienceController.ViewExperienceList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\ExperienceController.cs:line 32
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 11:05:02.6005  
+              
+             Exception Type: System.Exception
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Test Exception
+             Aditional Info: An error has occurred
+             Stack Trace:    at GradFolio.Web.Controllers.CourseController.ViewCourseList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\CourseController.cs:line 37
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:27:42.1401  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:27:42.1901  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 11:27:42.2532  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.CourseController.ViewCourseList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\CourseController.cs:line 33
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:29:05.3303  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:29:05.3893  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 11:29:18.9064  
+              
+             Exception Type: System.ArgumentNullException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: Value cannot be null.
+Parameter name: source
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at GradFolio.Web.Controllers.CourseController.ViewCourseList(String sort) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Web\Controllers\CourseController.cs:line 33
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:31:01.3267  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:31:01.4027  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:32:06.7037  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 11:32:06.8709  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 12:15:19.7061  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 12:15:19.7691  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:56:54.5274  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:56:54.6825  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:58:07.4265  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 9
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:58:07.4575  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 9
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:58:41.2149  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 13:58:41.2449  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 19:44:13.2136  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 19:44:13.2829  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:47:10.7654  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:47:10.8214  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 20:47:58.0341  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 83
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:48:22.3373  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:48:22.3673  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:50:57.1921  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:50:57.2451  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 8
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 20:51:11.1209  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 83
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 20:51:39.4108  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 83
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 20:53:33.4908  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 83
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:57:37.9073  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:57:37.9824  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:59:32.2176  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 20:59:32.2797  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 21:00:03.5792  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 83
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:07:54.6117  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:07:54.6685  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 21:08:03.7196  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 82
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 5
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 21:08:15.8700  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 82
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:11:53.6504  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:11:53.7085  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Error  2015-08-03 21:13:04.0475  
+              
+             Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Error
+             Exception Message: An error occurred while updating the entries. See the inner exception for details.
+             Aditional Info: An error has occurred
+             Stack Trace:    at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at GradFolio.Infrastructure.Repository.SkillRepository.Save() in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Repository\SkillRepository.cs:line 82
+   at GradFolio.Infrastructure.Services.SkillService.InsertSkill(String userId, SkillDto skill) in c:\Users\pobeirne\Source\Repos\Software-Project-2015\GradFolio\GradFolio.Infrastructure\Services\SkillService.cs:line 96
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 6
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:52:56.5666  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: Not profile for the user found: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+
+             Info  2015-08-03 21:52:56.6205  
+              
+             Exception Type: 
+             Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+             Exception Message: 
+             Aditional Info: UserId Authenticated Failed: d5390018-e4ba-4ae4-add2-aaaa634f1a92
+             Stack Trace: 
+             Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+             Thread ID: 7
+             Windows Identity: pobeirne
+

@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+
+    @Scripts.Render("~/bundles/jquery")
+
+    @Styles.Render("~/Content/portal")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <script src="~/Scripts/portal/notify-custom.min.js"></script>
+</head>
+<body>
+
+<div class="container black ">
+    <div class="navbar navbar-inverse navbar-static-top margin-bottom-remove">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("GradFolio Portal", "Index", "Home", new {area = ""}, new {@class = "navbar-brand"})
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav" id="menu-wrapper">
+                <li>@Html.ActionLink("Overview", "Overview", "Portal")</li>
+                <li>@Html.ActionLink("ProfileInfo", "ProfileInfo", "Portal")</li>
+                <li>@Html.ActionLink("Experience", "Experience", "Portal")</li>
+                <li>@Html.ActionLink("Courses", "Courses", "Portal")</li>
+                <li>@Html.ActionLink("Skills", "Skills", "Portal")</li>
+                <li>@Html.ActionLink("Awards", "Awards", "Portal")</li>
+                <li>@Html.ActionLink("Interests", "Interests", "Portal")</li>
+                <li>@Html.ActionLink("Projects", "Projects", "Portal")</li>
+                <li>@Html.ActionLink("CV", "CurriculumVitae", "Portal")</li>
+                <li>@Html.ActionLink("Portfolio", "Portfolio", "Portal")</li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+
+    <div class="row body-content">
+        <div class="col-md-2 black" id="sidebar-wrapper">
+            <div class="list-group">
+                <div style="height: 22px;"></div>
+
+                <a href="@Url.Action("Overview", "Portal")" class="list-group-item border-flatten">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Overview </span>
+                </a>
+
+                <a href="@Url.Action("ProfileInfo", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Profile </span>
+                </a>
+
+                <a href="@Url.Action("Experience", "Portal")" class=" list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Experience </span>
+                </a>
+
+                <a href="@Url.Action("Courses", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Education </span>
+                </a>
+                <a href="@Url.Action("Skills", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Skills </span>
+                </a>
+
+                <a href="@Url.Action("Awards", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Awards </span>
+                </a>
+
+                <a href="@Url.Action("Interests", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Interests </span>
+                </a>
+
+
+                <a href="@Url.Action("Projects", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Projects </span>
+                </a>
+
+                <a href="@Url.Action("CurriculumVitae", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Curriculum Vitae </span>
+                </a>
+
+                <a href="@Url.Action("Portfolio", "Portal")" class="list-group-item">
+                    <span class=" glyphicon glyphicon-th" aria-hidden="true"></span><span> Portfolio </span>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-10" id="body-wrapper"style="height: 820px;">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+<div class="container" style="padding: 0;">
+    <div class="navbar navbar-inverse navbar-static-bottom margin-bottom-remove border-flatten">
+        <p align="center" style="padding-top: 10px">
+            Created by Paul O'Beirne <a href="http://www.bootply.com">GradFolio</a>
+        </p>
+    </div>
+</div>
+
+
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", false)
+
+
+</body>
+</html>

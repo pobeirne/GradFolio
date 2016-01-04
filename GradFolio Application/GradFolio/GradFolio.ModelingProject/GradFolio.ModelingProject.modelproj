@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{a245d25e-d557-43fe-9d6e-fcb92ad1deb6}</ProjectGuid>
+    <ArchitectureToolsVersion>2.0.0.0</ArchitectureToolsVersion>
+    <Name>GradFolio.ModelingProject</Name>
+    <RootNamespace>GradFolio.ModelingProject</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
+  <ItemGroup>
+    <Content Include="GeneratePortfolio.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GeneratePortfolio.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>GeneratePortfolio.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="GenerateCV.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GenerateCV.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>GenerateCV.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="Login.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Login.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>Login.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="ManageAccount.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ManageAccount.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>ManageAccount.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="ManageInformation.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ManageInformation.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>ManageInformation.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="Register.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Register.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>Register.usecasediagram</DependentUpon>
+    </Content>
+    <Content Include="System.usecasediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="System.usecasediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>System.usecasediagram</DependentUpon>
+    </Content>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="ModelDefinition\GradFolio.ModelingProject.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>

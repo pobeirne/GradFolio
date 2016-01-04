@@ -1,0 +1,117 @@
+﻿body {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.black { padding: 0; }
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 0;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+
+.dl-horizontal dt { white-space: normal; }
+
+/* Set width on the form input elements since they're 100% wide by default */
+
+input,
+select,
+textarea { max-width: 280px; }
+
+
+.padding-top-20 { padding-top: 40px; }
+
+
+.margin-bottom-remove { margin-bottom: 0; }
+
+.border-flatten {
+    -ms-border-radius: 0;
+    border-radius: 0;
+}
+
+#loading { display: none }
+
+
+
+
+.text-justify { text-align: justify; }
+
+.img-responsive {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+
+.scroll-top {
+    position: fixed;
+    bottom: 0;
+    right: 6%;
+    z-index: 100;
+    background: #ffcc33;
+    font-size: 24px;
+    -ms-border-top-left-radius: 3px;
+    border-top-left-radius: 3px;
+    -ms-border-top-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.scroll-top a:link, .scroll-top a:visited { color: #222; }
+
+
+
+#menu-wrapper { display: none }
+
+
+
+@media  all and (max-width: 768px) and (min-width: 320px) {
+    #sidebar-wrapper { display: none; }
+
+    #body-wrapper { width: 100%; }
+
+    #menu-wrapper { display: block; }
+}
+
+
+
+
+
+
+ #selectedFiles img
+    {
+        max-width: 200px;
+        max-height: 200px;
+        float: left;
+        margin-bottom: 10px;
+    }
+
+    input[type='file']
+    {
+        color: transparent;
+    }
+
+
+
+
+.notifyjs-corner{
+  position: fixed !important;
+  top: 130px !important;
+  left: 50% !important;
+  right: 50% !important;
+  margin-top: -50px !important;
+  margin-left: -150px !important;
+  margin-right: -150px !important;
+}
+
+
+
+
+
+
+
+
+

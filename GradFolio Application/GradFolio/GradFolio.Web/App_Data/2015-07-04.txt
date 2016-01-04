@@ -1,0 +1,66 @@
+ ----- Info ------ 2015-07-04 14:44:47.0312 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: GetMessage
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+
+ ----- Info ------ 2015-07-04 14:44:47.0775 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: GradFolio.Infrastructure.Repository.TestRepository
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+
+ ----- Info ------ 2015-07-04 14:46:18.2169 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: This is the info message from the service layer
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+
+ ----- Info ------ 2015-07-04 14:46:18.2719 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: GradFolio.Infrastructure.Repository.TestRepository
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+
+ ----- Info ------ 2015-07-04 14:48:47.0775 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: This is the info message from the service layer
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+
+ ----- Info ------ 2015-07-04 14:48:47.1256 ----- 
+    
+ Exception Type: 
+ Call Site: GradFolio.Infrastructure.Logging.NLog.LoggingService.Info
+ Exception Message: 
+ Aditional Info: Message call from repository
+ Stack Trace: 
+ Logger: GradFolio.Infrastructure.Logging.NLog.LoggingService
+ Thread ID: 6
+ Windows Identity: paul
+

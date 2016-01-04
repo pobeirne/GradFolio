@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LoginUseCaseDiagram">
+  <useCaseModelRootMoniker Id="7a9d7d57-3a5e-446d-b1a6-4326daa73f3f" />
+  <nestedChildShapes>
+    <actorShape Id="b8b4ca4d-76f6-408a-9fe7-8634771beaaf" absoluteBounds="1.875, 2.375, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="0c022539-6391-4a58-a248-eba071690b46" LastKnownName="User" />
+      <relativeChildShapes />
+    </actorShape>
+    <useCaseShape Id="98b94634-12d6-49f5-a84c-35f12bdaf91a" absoluteBounds="5, 2.375, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="3e15d3c7-cab0-4f12-8abe-489912502bf0" LastKnownName="Login" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <useCaseDependencyConnector edgePoints="[(2.375 : 2.625); (5 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black">
+      <dependencyMoniker Id="8f88459b-3c66-4390-892b-8ce966a6a85b" />
+      <relativeChildShapes />
+      <nodes>
+        <actorShapeMoniker Id="b8b4ca4d-76f6-408a-9fe7-8634771beaaf" />
+        <useCaseShapeMoniker Id="98b94634-12d6-49f5-a84c-35f12bdaf91a" />
+      </nodes>
+    </useCaseDependencyConnector>
+    <commentShape Id="6c868b26-9d6f-4a91-8b58-4be87bca9019" absoluteBounds="3.25, 2.25, 0.75, 0.25" customColor="251, 247, 200">
+      <commentMoniker Id="ccfbe7d1-78c4-4fdb-b849-d81f42c2ed1e" />
+      <relativeChildShapes />
+    </commentShape>
+    <useCaseShape Id="97126542-bec5-4411-98c5-10e2924e5f7a" absoluteBounds="7.875, 2.375, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+      <useCaseMoniker Id="2c697b25-f3db-416b-8874-760c00c96d51" LastKnownName="Register" />
+      <relativeChildShapes />
+    </useCaseShape>
+    <includeConnector edgePoints="[(6 : 2.625); (7.875 : 2.625)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="Black" useCaseStereotype="«include»">
+      <includeMoniker Id="2abb3c73-b8d5-4db4-8b21-af379582a95f" />
+      <relativeChildShapes />
+      <moveableDecoratorHostShapes>
+        <moveableDecoratorHostShape manuallyPlaced="true" absoluteBounds="6.625, 2.3125, 0.52439594268798828, 0.14800345897674561" shapeFieldName="NameDecorator" />
+      </moveableDecoratorHostShapes>
+      <nodes>
+        <useCaseShapeMoniker Id="98b94634-12d6-49f5-a84c-35f12bdaf91a" />
+        <useCaseShapeMoniker Id="97126542-bec5-4411-98c5-10e2924e5f7a" />
+      </nodes>
+    </includeConnector>
+  </nestedChildShapes>
+</useCaseDiagram>

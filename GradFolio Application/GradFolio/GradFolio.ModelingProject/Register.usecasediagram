@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="2d48e3f4-7b5a-434a-97d3-9ba93e254fea" name="RegisterUseCaseDiagram" linkedPackageId="44d682ca-b23d-4edf-b619-e259d8796ebe" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="f3c043e6-bd34-4ed4-816e-099361f96f9c">
+      <elementDefinition Id="e3826f84-9eb1-4059-82a5-9b91d4002e0b" />
+      <body>Create</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="e9739269-2a9c-4a88-ba94-d26d42be7ba3">
+      <profileInstance Id="dc0d8a1b-13e6-400b-a7cc-ba7e68b79505" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="85aad02e-88ac-43fd-a3d0-d5f960fbcb18">
+      <profileInstance Id="616f3941-47b6-4ce7-b528-8735b96a143a" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="3db13e30-3fb4-4086-a3b1-f699c9744996" name="User" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b103432c-d10c-4781-8f35-ace71074c744" />
+        <suppliersInternal>
+          <dependency Id="e40639e5-4f57-4c96-a86e-5bb40a250ac2">
+            <useCaseMoniker Id="5f265df0-a41d-4719-aad9-f815aac8488b" LastKnownName="Register" />
+            <elementDefinition Id="5b996200-6b20-4c49-90eb-9dda276892bc" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="5f265df0-a41d-4719-aad9-f815aac8488b" name="Register" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="7d81de78-3737-4396-b049-149d042a100e" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="44d682ca-b23d-4edf-b619-e259d8796ebe" name="GradFolio.ModelingProject">
+    <elementDefinition Id="8da4f1e8-b4d0-4cca-ae6b-0e880d4eb02d" />
+  </package>
+</useCaseModelRoot>

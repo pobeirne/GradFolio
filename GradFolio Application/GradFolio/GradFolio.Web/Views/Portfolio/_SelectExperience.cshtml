@@ -1,0 +1,39 @@
+﻿@using MvcCheckBoxList.Model
+@model GradFolio.Core.ViewModels.PortfolioSettingViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+    <div class="modal-header" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true" style="color: #ffffff">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">Edit Award</h4>
+    </div>
+    <div class="modal-body">
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+            @Html.HiddenFor(model => model.SettingType)
+
+            <div class="editor-label">
+                <label>Categories</label>
+            </div>
+
+            @Html.CheckBoxListFor(model => model.PostedSettings.SettingIds,
+                model => model.AvailableSettings,
+                fruit => fruit.Id,
+                fruit => fruit.Title,
+                model => model.SelectedSettings,
+                Position.Vertical)
+
+
+        </div>
+    </div>
+    <div class="modal-footer" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+        <button id="btn-content-edit-submit" type="button" class="btn btn-primary">Save changes</button>
+    </div>
+}

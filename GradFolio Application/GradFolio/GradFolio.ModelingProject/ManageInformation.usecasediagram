@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="2bff3bd9-2d9c-4bff-99c8-4d429a4802e1" name="ManageInformation" linkedPackageId="1f9cc7d6-fcb2-49b7-a5b3-d2436138bce0" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <ownedCommentsInternal>
+    <comment Id="9cddfcb0-9524-465c-8688-b7ad92aa6848">
+      <elementDefinition Id="c48be948-c06d-459f-b921-45a4f97af741" />
+      <body>Input</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="ad71e1e3-aaff-4bb3-8961-a8561eb96ef0">
+      <profileInstance Id="21ce9dbe-8633-45bb-a0b5-1c82c646efa4" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="884cc9c7-0222-4f07-9d59-8e782a6c9048">
+      <profileInstance Id="4a196283-7bfe-47b5-a5d1-8f7923ec04dc" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="8b50a4e7-17c4-4534-9ddb-45cabab5672f" name="User" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="fe026956-6635-4ccf-8245-4b6e828f72ed" />
+        <suppliersInternal>
+          <dependency Id="8b65706a-23a4-47c3-9dbe-2da62ba8caac">
+            <useCaseMoniker Id="69b36157-9083-4642-be76-4941811fc99a" LastKnownName="Manage Information" />
+            <elementDefinition Id="f4871f64-7122-4cd8-9ee0-d69f3b9cf666" />
+          </dependency>
+        </suppliersInternal>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="69b36157-9083-4642-be76-4941811fc99a" name="Manage Information" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5592a3cf-b9df-4129-b800-76f09ab3bdc8" />
+        <additions>
+          <include Id="b849bb2b-a76e-4d7c-81b6-5e90bdaa936b">
+            <useCaseMoniker Id="420b5b32-5c0a-448b-906d-eeafdd7631d5" LastKnownName="Login" />
+            <elementDefinition Id="847b7360-2651-433f-b398-6113fa073c18" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="420b5b32-5c0a-448b-906d-eeafdd7631d5" name="Login" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="f036cbb8-f2d7-46aa-a6c8-6857685dfe47" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="1f9cc7d6-fcb2-49b7-a5b3-d2436138bce0" name="GradFolio.ModelingProject">
+    <elementDefinition Id="8da4f1e8-b4d0-4cca-ae6b-0e880d4eb02d" />
+  </package>
+</useCaseModelRoot>

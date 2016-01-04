@@ -1,0 +1,109 @@
+﻿@model GradFolio.Core.ViewModels.CvFormViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="modal-header" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true" style="color: #ffffff">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">Add CV</h4>
+    </div>
+    <div class="modal-body">
+
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true, "", new {@class = "text-danger"})
+         
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.FileName, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.EditorFor(model => model.FileName, new {htmlAttributes = new {@class = "form-control"}})
+                    @Html.ValidationMessageFor(model => model.FileName, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+
+            @*<div class="form-group">
+                @Html.LabelFor(model => model.SelectedCourse1, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.DropDownListFor(m => m.SelectedCourse1, Model.Courses, new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.SelectedCourse1, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SelectedCourse2, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.DropDownListFor(m => m.SelectedCourse2, Model.Courses, new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.SelectedCourse2, "", new {@class = "text-danger"})
+                </div>
+            </div>
+
+            @if (Model.Type == "type2")
+            {
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectedCourse3, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                    <div class="col-lg-8 col-md-8 col-xs-12">
+                        @Html.DropDownListFor(m => m.SelectedCourse3, new SelectList(Model.Courses, "Value", "Text"), new {@class = "form-control"})
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectedCourse4, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                    <div class="col-lg-8 col-md-8 col-xs-12">
+                        @Html.DropDownListFor(m => m.SelectedCourse4, Model.Courses, new {@class = "form-control"})
+                    </div>
+                </div>
+            }
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.SelectedExp1, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.DropDownListFor(m => m.SelectedExp1, Model.Experiences, new {@class = "form-control"})
+
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.SelectedExp2, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                <div class="col-lg-8 col-md-8 col-xs-12">
+                    @Html.DropDownListFor(m => m.SelectedExp2, Model.Experiences, new {@class = "form-control"})
+
+                </div>
+            </div>
+
+
+            @if (Model.Type == "type2")
+            {
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectedExp3, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                    <div class="col-lg-8 col-md-8 col-xs-12">
+                        @Html.DropDownListFor(m => m.SelectedExp3, Model.Experiences, new {@class = "form-control"})
+
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.SelectedExp4, new {@class = "control-label col-lg-4 col-md-4 col-xs-12"})
+                    <div class="col-lg-8 col-md-8 col-xs-12">
+                        @Html.DropDownListFor(m => m.SelectedExp4, Model.Experiences, new {@class = "form-control"})
+
+                    </div>
+                </div>*@
+            
+
+        </div>
+    </div>
+    <div class="modal-footer" style="background-color: #000000; color: #f5fffa">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button id="btn-content-add-submit" type="button" class="btn btn-primary">Save changes</button>
+    </div>
+}
+
+
+
+
+
+
+
+
